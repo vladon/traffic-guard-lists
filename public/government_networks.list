@@ -50,25 +50,20 @@
 
 # Networks announced by AS34974
 # AS-Name: AIS-NET
+# Agency for Informatization and Communication Kamchatka, Government
 # Agency for Informatization and
 # Communication Kamchatka, Government
-# Agency for Informatization and Communication Kamchatka, Government
-77.82.148.0/27
 77.82.124.24/29
-
-# Networks announced by AS197668
-# AS-Name: AKO-NET
-# Org: Administration of the Governor and Government of the Kirov region
-91.223.244.0/24
+77.82.148.0/27
 
 # Networks announced by AS20632
 # AS-Name: AMPZA-LAN
-# FGBU AMPZA network
+# FGBU AMP ZAPADNOY ARKTIKI network
 # St.Petersburg
 # JSC PeterStar
-# FGBU AMP ZAPADNOY ARKTIKI network
-84.204.92.172/30
+# FGBU AMPZA network
 213.172.9.248/30
+84.204.92.172/30
 
 # Networks announced by AS3267
 # AS-Name: AMVD
@@ -109,16 +104,11 @@
 # AS-Name: AOIOT-NET
 # Org: JSC IOT
 78.24.216.0/22
-185.60.132.0/23
-94.250.248.0/23
-94.250.254.0/23
 94.250.252.0/23
+94.250.254.0/23
+94.250.248.0/23
+185.60.132.0/23
 94.250.250.0/23
-
-# Networks announced by AS49369
-# AS-Name: AORS
-# Org: Staff Governor and Government of the Orenburg region
-193.169.34.0/23
 
 # Networks announced by AS31133
 # AS-Name: APELLYATSIONNII-SYD-LAN
@@ -129,19 +119,14 @@
 # AS-Name: APKPRO-NET
 # The Academy of Ministry of education of the Russian Federation
 # Russia
-80.250.163.0/24
 80.250.168.0/24
+80.250.163.0/24
 
 # Networks announced by AS12389
 # AS-Name: APMPSU
 # Administration of Pension Maintenance of South Ural,
 # Chelyabinsk, Vorovsky str. 30
 212.57.128.0/24
-
-# Networks announced by AS58031
-# AS-Name: APS-RA-NET
-# Org: Government Communication Agency, republic of Abkhazia
-91.238.2.0/23
 
 # Networks announced by AS20632
 # AS-Name: ARBITR-SUD-LAN
@@ -199,8 +184,8 @@
 # Arhangelskaya tamozhnya
 # St.Petersburg
 # JSC PeterStar
-109.124.95.228/30
 109.124.95.224/30
+109.124.95.228/30
 
 # Networks announced by AS20632
 # AS-Name: ARHZEMKADASTR-LAN
@@ -236,8 +221,8 @@
 # Networks announced by AS8470
 # AS-Name: AVP-NET-COLO-via-MAcom
 # Kaspersky Lab
-212.5.89.0/24
 87.118.220.168/30
+212.5.89.0/24
 
 # Networks announced by AS39442
 # AS-Name: Administraciya_Leninskoe
@@ -344,14 +329,6 @@
 # Petersburg, Russia
 188.43.31.32/29
 
-# Networks announced by AS25227
-# AS-Name: Avantel-NET
-# Colocation NET
-# Moscow, Profsouznaya 32
-# Moscow, Profsouznaya 84/32 IKI
-92.242.53.0/27
-5.61.8.240/28
-
 # Networks announced by AS8359
 # AS-Name: Avtokombinat-Moskkij-pochtamp
 # Avtokombinat FGUP UFPS g.Moskvy"Mosk-kij pochtamp"
@@ -392,45 +369,43 @@
 # 344082, Rostov-on-Don, per.Ostrovsky 58 A, Russia
 80.72.230.224/29
 
-# Networks announced by AS48347
-# AS-Name: BNK-MSK-RU-RUVDS
-# Org: JSC Mediasoft ekspert
-193.124.113.0/24
-194.87.110.0/23
-194.87.92.0/22
-194.87.98.0/23
-195.133.1.0/24
-193.124.115.0/24
-193.124.114.0/24
-195.133.196.0/23
-193.124.117.0/24
-193.124.112.0/24
-194.87.101.0/24
-195.133.146.0/23
-194.87.102.0/23
-193.124.0.0/25
-193.124.0.128/25
-194.87.234.0/23
-195.133.201.0/24
-195.133.144.0/23
-194.87.236.0/22
-194.87.144.0/22
-194.87.248.0/24
-194.58.69.0/24
-194.87.232.0/24
-195.133.48.0/23
-194.87.214.0/24
-193.108.113.0/24
-
-# Networks announced by AS48347
+# Networks announced by AS214822
 # AS-Name: BNK-MSK-RU-RUVDS
 # Org: MT FINANCE LLC
 2a06:1301:4300::/48
 
-# Networks announced by AS25227
-# AS-Name: BRK
-# Moscow, Profsouznaya 34
-31.13.16.156/30
+# Networks announced by AS48347,AS214822
+# AS-Name: BNK-MSK-RU-RUVDS
+# Org: JSC Mediasoft ekspert
+193.108.113.0/24
+194.87.248.0/24
+193.124.0.128/25
+193.124.0.0/25
+194.87.214.0/24
+193.124.113.0/24
+193.124.114.0/24
+193.124.115.0/24
+193.124.112.0/24
+195.133.201.0/24
+195.133.196.0/23
+195.133.144.0/23
+194.58.69.0/24
+195.133.146.0/23
+193.124.117.0/24
+194.87.101.0/24
+195.133.1.0/24
+170.168.10.0/24
+194.87.110.0/23
+194.87.92.0/22
+194.87.232.0/24
+194.87.144.0/22
+170.168.45.0/24
+195.133.48.0/23
+194.87.236.0/22
+194.87.234.0/23
+194.87.98.0/23
+194.87.102.0/23
+80.64.31.0/24
 
 # Networks announced by AS21365
 # AS-Name: BRN-AROFSS
@@ -575,31 +550,31 @@
 
 # Networks announced by AS6858
 # AS-Name: CMK-ROSTRANSNADZOR
-# Comlink ISP Network - Client "SZFO Rostransnadzor"
 # Comlink ISP Network - Client "OOO SZFO Rostransnadzora"
-195.182.157.28/30
+# Comlink ISP Network - Client "SZFO Rostransnadzor"
 195.182.151.100/30
+195.182.157.28/30
 
 # Networks announced by AS61280,AS12389,AS213853
 # AS-Name: CMU_GRCHC
 # Org: FGUP "GRCHC"
 # FGUP "GRCHC"
-212.192.156.0/22
-195.209.120.0/22
+185.224.229.0/24
 185.224.231.0/24
 185.224.230.0/24
-185.224.229.0/24
-185.224.228.0/24
 62.76.98.0/24
+195.209.120.0/22
+185.224.228.0/24
+212.192.156.0/22
 
 # Networks announced by AS61280,AS213853
 # AS-Name: CMU_GRCHC
 # Org: FGUP "GRCHC"
 # FGUP "GRCHC"
-2a0c:a9c7:157::/48
-2a0c:a9c7:156::/48
-2a0c:a9c7:159::/48
 2a0c:a9c7:158::/48
+2a0c:a9c7:157::/48
+2a0c:a9c7:159::/48
+2a0c:a9c7:156::/48
 
 # Networks announced by AS20632
 # AS-Name: CNII-ELECTROPROBOR-LAN
@@ -645,12 +620,6 @@
 78.107.16.96/28
 
 # Networks announced by AS8402
-# AS-Name: CORBINA-BALTIKM
-# Baltik-Master
-# Moscow, Profsouznaya 146-3
-89.179.166.128/28
-
-# Networks announced by AS8402
 # AS-Name: CORBINA-FGUP-OHRANA
 # FGUP OHRANA MVD Russia
 78.107.3.208/28
@@ -666,17 +635,11 @@
 78.107.61.96/28
 
 # Networks announced by AS8402
-# AS-Name: CORBINA-FGUPGAMMA1
-# FGUP Nauchno-proizvodstvennoe predpriyatie Gamma
-# Moscow, ul. Profsouznaya, d.78, str.4
-85.21.99.64/28
-
-# Networks announced by AS8402
 # AS-Name: CORBINA-FGUPKBTM
 # FGUP Konstruktorskoe Byuro Transportnogo Mashinostroeniya
 # Moscow, pr-t Vernadskogo, 101/2
-89.179.181.0/24
 89.179.179.16/28
+89.179.181.0/24
 
 # Networks announced by AS8402
 # AS-Name: CORBINA-FGUPNII
@@ -751,12 +714,6 @@
 89.179.55.48/28
 
 # Networks announced by AS8402
-# AS-Name: CORBINA-MMKFORMED
-# ZAO MMK Formed
-# Moscow, Profsouznaya, d 128, korp 2
-85.21.242.96/28
-
-# Networks announced by AS8402
 # AS-Name: CORBINA-MROFSSRF
 # GU-Moskovskoe regionalnoe otdelenie Fonda socialnogo strahovaniya RF
 # Moscow, Sivashskaya, d 7, korp 1
@@ -820,8 +777,8 @@
 # AS-Name: CORBINA-STANDINFO
 # FGUP Standartinform
 # Moscow, Granatni per, 4
-85.21.148.0/26
 85.21.204.208/28
+85.21.148.0/26
 
 # Networks announced by AS8402
 # AS-Name: CORBINA-SUDPRISTOV
@@ -867,12 +824,6 @@
 # Moscow, Oslyabincskii per 3
 83.102.140.192/29
 
-# Networks announced by AS8402
-# AS-Name: CORBINA-YUMOS
-# ANO Telekommunikacionniy Centr Umos
-# Moscow, Profsouznaya, d 144
-85.21.155.160/28
-
 # Networks announced by AS5386
 # AS-Name: CPR-NET
 # CPI company LAN
@@ -880,12 +831,12 @@
 # 117810, Moscow
 195.170.242.0/24
 
-# Networks announced by AS16012,AS8359
+# Networks announced by AS8359,AS16012
 # AS-Name: CRIE-NET
 # FBUN CNII EPIDEMIOLOGII Rospotrebnadzora
-212.48.39.52/30
-82.204.182.224/27
 217.69.213.200/29
+82.204.182.224/27
+212.48.39.52/30
 
 # Networks announced by AS31444
 # AS-Name: CRIST-NET
@@ -906,20 +857,19 @@
 # AS-Name: CTC_CLIENTS
 # FGKU UVO GU MVD Rossii po Moskovskoy oblasti
 # SPAM issues: balovo@mail.ru
-# FGUP MNIIRIP
-# FSBI Holiday House Arkhangelskoe
-# SPAM issues:  balovo@mail.ru
-# SPAM issues: uvomo5otdel@rambler.ru
-# SPAM issues: ovo-chehov@mail.ru
 # SPAM issues: ovo_5012@mail.ru
-89.109.250.96/30
-89.109.250.88/29
-89.109.235.96/29
+# SPAM issues: uvomo5otdel@rambler.ru
+# FSBI Holiday House Arkhangelskoe
+# FGUP MNIIRIP
+# SPAM issues: ovo-chehov@mail.ru
 89.109.250.132/30
+89.109.250.140/30
 85.94.20.120/29
 89.109.250.28/30
+89.109.235.96/29
+89.109.250.88/29
 89.109.250.80/30
-89.109.250.140/30
+89.109.250.96/30
 
 # Networks announced by AS8359
 # AS-Name: CTU-NETWORK
@@ -1004,15 +954,15 @@
 
 # Networks announced by AS20632
 # AS-Name: DELOVYE-LINII-LAN
-# DELOVYE LINII
+# Delovye Linii
 # St.Petersburg
 # JSC PeterStar
-# Delovye Linii
+# DELOVYE LINII
 # ARH,Dezhnevtsev,34
-82.140.73.164/30
 84.204.138.224/30
-84.204.10.204/30
 84.204.45.124/30
+84.204.10.204/30
+82.140.73.164/30
 93.153.227.12/30
 
 # Networks announced by AS39442
@@ -1119,6 +1069,11 @@
 # Ticket 10-06824-2
 95.167.98.12/30
 
+# Networks announced by AS8359
+# AS-Name: DefendersPantheon
+# Federal State Budgetary Institution "Federal War Memorial "Pantheon of Defenders of the Fatherland" of the Ministry of Defense of the Russian Federation
+89.175.189.152/29
+
 # Networks announced by AS12389
 # AS-Name: Duma-Vldy
 # JSC Rostelecom client (city Vladivostok) 08-16325
@@ -1148,11 +1103,21 @@
 # EdgeCenter customer assignment
 # Unisender
 92.223.110.0/24
+92.223.32.0/22
 92.223.108.0/23
-5.8.42.0/24
-92.223.8.0/24
-92.223.9.0/24
+95.181.179.0/24
+31.184.205.0/24
+45.147.162.0/24
 31.184.204.0/24
+92.223.111.0/24
+5.8.42.0/24
+92.223.36.0/24
+5.188.150.0/24
+91.243.84.0/24
+5.188.149.0/24
+92.223.9.0/24
+5.188.39.0/24
+45.147.163.0/24
 5.8.43.1/32
 5.8.43.2/31
 5.8.43.4/30
@@ -1164,20 +1129,10 @@
 5.188.3.0/24
 5.188.37.0/24
 5.188.38.0/24
-5.188.39.0/24
-5.188.149.0/24
-5.188.150.0/24
-92.223.111.0/24
-92.223.32.0/22
-95.181.179.0/24
-45.147.162.0/24
-45.147.163.0/24
-92.223.36.0/24
-31.184.205.0/24
-91.243.82.0/24
-91.243.84.0/24
 146.185.197.0/24
+91.243.82.0/24
 31.184.200.0/22
+92.223.8.0/24
 
 # Networks announced by AS201643
 # AS-Name: EGOV66-NET-1
@@ -1185,7 +1140,7 @@
 # Yekaterinburg, Russian Federation
 185.68.100.0/24
 
-# Networks announced by AS214822,AS9002
+# Networks announced by AS214822,AS29470
 # AS-Name: EKB-RU-RUVDS
 # Org: MT FINANCE LLC
 193.108.114.0/24
@@ -1241,16 +1196,16 @@
 
 # Networks announced by AS21127
 # AS-Name: Emercom-Omsk
-# General Directorate of Ministry of
-# Emergency Situations of Russia
-# in Omsk region
-# street. International, 41
-# 644099, Russia, Omsk
 # General Directorate of Ministry
 # of Emergency Situations of Russia
+# in Omsk region
+# street. International, 41
 # 644043, Russia, Omsk
-82.200.22.200/30
+# General Directorate of Ministry of
+# Emergency Situations of Russia
+# 644099, Russia, Omsk
 82.200.106.176/29
+82.200.22.200/30
 
 # Networks announced by AS8359
 # AS-Name: FA-Kuskovskaia
@@ -1265,10 +1220,10 @@
 # Networks announced by AS8342
 # AS-Name: FACON
 # Federal Real Estate Cadastre Agency
+195.161.160.192/29
+217.106.32.0/24
 213.24.236.0/23
 213.24.238.0/25
-217.106.32.0/24
-195.161.160.192/29
 
 # Networks announced by AS12389
 # AS-Name: FBU-NALOG-SERVICE
@@ -1290,7 +1245,7 @@
 
 # Networks announced by AS8359
 # AS-Name: FGAU_UISP
-# FGAU UISP Minoborony Rossii
+# FGAU «UISP» Minoborony Rossii
 82.204.179.64/29
 
 # Networks announced by AS20632
@@ -1347,12 +1302,12 @@
 # FGBUK Gosudarstvennyy Ermitazh
 # St.Petersburg
 # JSC PeterStar
-81.3.172.96/28
+84.204.250.184/29
 81.3.169.144/28
-84.204.79.168/29
 81.3.169.240/28
 81.3.172.128/28
-84.204.250.184/29
+81.3.172.96/28
+84.204.79.168/29
 
 # Networks announced by AS20597
 # AS-Name: FGBU_SPb_NCEPR_im_GA_Albrehta_FMBA_Rossii
@@ -1376,8 +1331,8 @@
 # FGKOU VPO SPbU MVD Rossii
 # St.Petersburg
 # JSC PeterStar
-195.144.253.192/28
 217.195.75.112/28
+195.144.253.192/28
 
 # Networks announced by AS20632
 # AS-Name: FGKU-SU-FPS-72-MCHS-LAN
@@ -1450,12 +1405,12 @@
 
 # Networks announced by AS20632
 # AS-Name: FGUP-GOSKORPORATSIA-ORVD-LAN
-# FGUP-GOSKORPORATSIA-ORVD-LAN
+# FGUP Goskorporatsia ORVD
 # St.Petersburg
 # JSC PeterStar
-# FGUP Goskorporatsia ORVD
-82.140.65.240/29
+# FGUP-GOSKORPORATSIA-ORVD-LAN
 109.124.71.64/29
+82.140.65.240/29
 
 # Networks announced by AS20632
 # AS-Name: FGUP-GOSNIIPP-LAN
@@ -1516,8 +1471,8 @@
 # AS-Name: FGUP-KBTM
 # FGUP  KBTM
 # Moscow, Russia
-81.195.94.72/29
 81.195.90.44/30
+81.195.94.72/29
 
 # Networks announced by AS28968
 # AS-Name: FGUP-KIM-NET
@@ -1531,14 +1486,14 @@
 # RyazRGS FGUP-KIM
 31.44.63.64/29
 
-# Networks announced by AS12714,AS21017
+# Networks announced by AS21017,AS12714
 # AS-Name: FGUP-NET
-# FGUP Management of Federal post communication of Saint Petersburg
-# Saint-Petersburg, Russia
 # FGUP Ohrana
 # Voronezh, Russia
-195.131.63.24/29
+# FGUP Management of Federal post communication of Saint Petersburg
+# Saint-Petersburg, Russia
 88.83.195.248/30
+195.131.63.24/29
 
 # Networks announced by AS8359
 # AS-Name: FGUP-NII-avtomatiki
@@ -1602,21 +1557,21 @@
 # FGUP Pochta Rossii
 # St.Petersburg
 # JSC PeterStar
-# Yaroslavl
 # FGUP-POCHTA-ROSSII-LAN
+# Yaroslavl
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
-93.153.172.100/30
-84.204.154.16/30
-84.204.245.208/29
-93.153.183.104/30
 93.153.135.88/30
-46.47.229.0/28
-93.153.244.248/29
 109.124.99.16/30
-93.153.136.132/30
+84.204.245.208/29
+46.47.229.0/28
+84.204.154.16/30
+93.153.244.248/29
 37.29.57.52/30
+93.153.183.104/30
 93.153.175.44/30
+93.153.172.100/30
+93.153.136.132/30
 
 # Networks announced by AS20632
 # AS-Name: FGUP-POCHTA-ROSSII-SPB-SOFIYSKAYA-81-1A-LAN
@@ -1665,8 +1620,8 @@
 # FGUP RSU Upravleniya delami Prezidenta Rossiyskoy Federacii Dobrolyubova 14
 # St.Petersburg
 # JSC PeterStar
-93.153.223.8/29
 93.153.229.232/29
+93.153.223.8/29
 
 # Networks announced by AS12389
 # AS-Name: FGUP-RTRS-SaratORPTC
@@ -1717,8 +1672,8 @@
 # FGUP VNIITVCH network
 # Obit Telecommunications
 # St.Petersburg
-85.114.30.192/30
 79.142.88.0/28
+85.114.30.192/30
 
 # Networks announced by AS8359
 # AS-Name: FGUP-VVO-Zarubezhgeologiya
@@ -1769,24 +1724,24 @@
 # FGUPOMVDR network
 # Obit Telecommunications
 # St.Petersburg
-178.16.156.148/30
-85.114.30.204/30
 145.255.238.240/28
+85.114.30.204/30
+178.16.156.148/30
 
 # Networks announced by AS8359
 # AS-Name: FGUPOhrana
 # "FGUP Ohrana" LLC
-# JCSC "FGUP Ohrana"
 # LLC "FGUP Ohrana"
-89.175.8.36/30
-89.175.8.192/30
-89.175.8.40/30
-89.175.8.140/30
-89.175.10.160/30
-89.175.8.44/30
-89.175.9.4/30
-89.175.8.52/30
+# JCSC "FGUP Ohrana"
 89.175.8.104/30
+89.175.9.4/30
+89.175.8.140/30
+89.175.8.36/30
+89.175.8.40/30
+89.175.8.192/30
+89.175.8.52/30
+89.175.8.44/30
+89.175.10.160/30
 
 # Networks announced by AS20485
 # AS-Name: FGUPRADON-NET
@@ -1796,10 +1751,10 @@
 
 # Networks announced by AS12389
 # AS-Name: FGUP_Avtomatika
-# Ticket 09-43230-2
 # Ticket 09-43230, DVF
-95.167.64.20/30
+# Ticket 09-43230-2
 95.167.29.104/29
+95.167.64.20/30
 
 # Networks announced by AS12389
 # AS-Name: FGUP_Center_Gigieni_Volgograd
@@ -1859,10 +1814,10 @@
 
 # Networks announced by AS12389
 # AS-Name: FGUP_SNIIM_Novosibirsk
-# Ticket 09-19840, RISS 8141, SF
 # Ticket 09-11595, RISS 8141, SF
-188.128.119.104/30
+# Ticket 09-19840, RISS 8141, SF
 188.128.118.224/27
+188.128.119.104/30
 
 # Networks announced by AS12836
 # AS-Name: FGUP_Specstroytehnologii
@@ -2173,11 +2128,11 @@
 # 386001 Magas, Russia
 213.24.63.208/28
 
-# Networks announced by AS12389,AS8342
+# Networks announced by AS8342,AS12389
 # AS-Name: FNS-INTERNET
 # Federal Tax Service of Russia
-213.24.44.128/29
 217.106.230.136/29
+213.24.44.128/29
 
 # Networks announced by AS12389
 # AS-Name: FNS-IRKUTSK
@@ -2295,8 +2250,8 @@
 # FNS network
 # Obit Telecommunications
 # St.Petersburg
-185.7.232.244/30
 185.7.233.0/30
+185.7.232.244/30
 
 # Networks announced by AS12389
 # AS-Name: FNS-LIPETSK
@@ -2345,30 +2300,30 @@
 # Federal Tax Service of Central region
 # Khoroshevskoe shosse 12 k.1
 # 123007 Moscow ,Russia
-# 123007, Moscow, Russia
-# B.Pereyaslavskaya 66 k.1
-# 129110, Moscow, Russia
-# Proezd Cherepanovih 12 k.9
-# 125239 Moscow ,Russia
 # Prospect Mira 164 VVC
 # Moscow, Russia
 # Orlikov 3 k.1
 # 107078, Moscow, Russia
+# Proezd Cherepanovih 12 k.9
+# 125239 Moscow ,Russia
+# 123007, Moscow, Russia
 # Kitaigorodskii proezd 7 k.1
 # 109074, Moscow, Russia
 # Prospect Mira 191 VVC
 # Moscow ,Russia
+# B.Pereyaslavskaya 66 k.1
+# 129110, Moscow, Russia
 # Prospect Mira 194 VVC
+213.24.62.96/28
 213.24.62.112/28
-213.24.62.240/28
-213.24.62.128/28
-213.24.62.224/28
 213.24.62.208/28
 213.24.62.192/28
-213.24.62.176/28
-213.24.62.96/28
+213.24.62.224/28
+213.24.62.240/28
 213.24.63.0/28
 213.24.62.160/28
+213.24.62.128/28
+213.24.62.176/28
 213.24.62.144/28
 
 # Networks announced by AS12389
@@ -2400,11 +2355,11 @@
 # Federal Tax Service of Nizhniy Novgorod
 # Marshala Kazakova 5a
 # N-Novgorog, Russia
-# Minina 20
 # Alekseevskaya 26
+# Minina 20
 213.24.59.0/28
-213.24.58.224/28
 213.24.58.240/28
+213.24.58.224/28
 
 # Networks announced by AS12389
 # AS-Name: FNS-NOVGOROD
@@ -2527,24 +2482,24 @@
 # Networks announced by AS12389
 # AS-Name: FNS-SPB
 # Federal Tax Service of S.Peterburg
-# Potemkinskaya 2
-# 191123 S.Peterburg ,Russia
 # Liteiniy prospekt 53
 # 191014 S.Peterburg, Russia
+# Solyanoy per 9a
+# 191028 S.Peterburg, Russia
 # Prospekt Metallistov 34
 # 195027 S.Peterburg ,Russia
+# Potemkinskaya 2
+# 191123 S.Peterburg ,Russia
 # Naberejnaya Fontanki 76
 # 191180 S.Peterburg, Russia
 # Prospekt Izmailovskiy 2
 # 190005 S.Peterburg ,Russia
-# Solyanoy per 9a
-# 191028 S.Peterburg, Russia
-213.24.60.96/28
 213.24.60.80/28
+213.24.60.112/28
 213.24.60.32/28
+213.24.60.96/28
 213.24.60.48/28
 213.24.60.64/28
-213.24.60.112/28
 
 # Networks announced by AS12389
 # AS-Name: FNS-STAVROPOL
@@ -2628,8 +2583,8 @@
 # Federal Tax Service of Volgograd region
 # Prospect V.I.Lenina 90
 # 400005 Volgograd ,Russia
-213.24.63.160/28
 213.24.63.176/28
+213.24.63.160/28
 
 # Networks announced by AS12389
 # AS-Name: FNS-VOLOGDA
@@ -2699,15 +2654,15 @@
 # JSC PeterStar
 93.153.205.40/30
 
-# Networks announced by AS21479,AS12389
+# Networks announced by AS12389,AS21479
 # AS-Name: FSB-NET
+# Regional control Federal Safety Bureau network, Perm, Russia
 # FondServicebank
 # 59B Platov ave., Novocherkassk
 # Rostov Region, Russia, 346400
-# Regional control Federal Safety Bureau network, Perm, Russia
+83.219.22.240/29
 80.254.109.224/27
 212.120.174.16/29
-83.219.22.240/29
 
 # Networks announced by AS12389
 # AS-Name: FSB-RB-UUD
@@ -2779,26 +2734,26 @@
 
 # Networks announced by AS12389
 # AS-Name: FSO
-# Ticket 10-30109-2
-# Ticket 10-31539-3
-# Ticket 10-11810-4
-# Ticket 10-39685-3
-# Ticket 10-36731-2
-# Ticket 10-40487-3
-# Ticket 10-28419-3
 # Ticket 10-31436-3
-# Ticket 10-33001-2
+# Ticket 10-11810-4
+# Ticket 10-30109-2
 # Ticket 10-22807-3
-46.61.182.96/28
-46.61.182.16/28
-46.61.182.80/28
-46.61.182.144/28
-46.61.182.64/28
-46.61.182.128/28
-46.61.182.0/28
+# Ticket 10-40487-3
+# Ticket 10-39685-3
+# Ticket 10-31539-3
+# Ticket 10-28419-3
+# Ticket 10-33001-2
+# Ticket 10-36731-2
 46.61.182.48/28
-46.61.182.32/28
+46.61.182.80/28
+46.61.182.96/28
 46.61.182.112/28
+46.61.182.128/28
+46.61.182.144/28
+46.61.182.16/28
+46.61.182.0/28
+46.61.182.32/28
+46.61.182.64/28
 
 # Networks announced by AS20632
 # AS-Name: FSO-INET-KPP-LAN
@@ -2818,17 +2773,17 @@
 # Khabarovsk
 194.84.234.112/28
 
-# Networks announced by AS20663,AS3253,AS12389
+# Networks announced by AS3253,AS12389,AS20663
 # AS-Name: FSS-NET
-# Fond Soc Strah
-# Ivanovo
 # Sverdlovskoe regional"noe otdelenie Fonda social"nogo strahovaniya RF
 # Ekaterinburg, Russia
 # Fond Social insurance
 # 31, Dzerzhinskogo st., Hanty-Mansyisk
-62.89.252.0/24
+# Fond Soc Strah
+# Ivanovo
 195.58.24.220/30
 212.96.211.232/29
+62.89.252.0/24
 
 # Networks announced by AS3253
 # AS-Name: FSS-NET-2
@@ -2882,7 +2837,7 @@
 
 # Networks announced by AS8359
 # AS-Name: FSUEMSAPP-NET
-# Federal State Unitary Enterprise Moscow Special Alloys Processing Plant
+# Federal State Unitary Enterprise «Moscow Special Alloys Processing Plant»
 89.175.9.80/30
 
 # Networks announced by AS12389
@@ -2890,8 +2845,8 @@
 # The Chelyabinsk branch of FSUE Radiofrequency center of Ural federal district
 # 279 Rossiyskaya str.
 # 454091, Chelyabinsk
-195.54.25.48/30
 195.54.7.84/30
+195.54.25.48/30
 
 # Networks announced by AS12389
 # AS-Name: FSUERM211-NE
@@ -2928,23 +2883,23 @@
 
 # Networks announced by AS8359
 # AS-Name: Filial-MRO-FSS-RF
-# Filial 6 MRO FSS  RF
+# Filial 3 MRO FSS RF
 # Moscow, Russia
 # Filial 8 MRO FSS RF
-# Filial 3 MRO FSS RF
-81.195.108.132/30
-81.195.87.0/30
+# Filial 6 MRO FSS  RF
 81.195.87.96/30
+81.195.87.0/30
+81.195.108.132/30
 
 # Networks announced by AS8359
 # AS-Name: Filial-N-MRO-FSS-RF
-# Filial N 4 MRO FSS RF
-# Moscow, Russia
-# Filial N10 MRO FSS RF
 # Filial N16 MRO FSS RF
+# Moscow, Russia
+# Filial N 4 MRO FSS RF
+# Filial N10 MRO FSS RF
+81.195.111.220/30
 81.195.109.76/30
 81.195.109.28/30
-81.195.111.220/30
 
 # Networks announced by AS12389
 # AS-Name: Filial_FGUP_Okhrana_MVD_Rossii_po_Orlovskoy_oblasti
@@ -2974,91 +2929,91 @@
 
 # Networks announced by AS8359
 # AS-Name: GBUMSE
-# FGUP GBUMSE
+# FGUP «GBUMSE»
 89.175.176.140/30
 
 # Networks announced by AS16012,AS8359
 # AS-Name: GBUMSE-NET
-# FGUP GBUMSE
+# FGUP «GBUMSE»
 # FGUP "GBUMSE"
-212.48.54.28/30
-212.48.53.76/30
-212.48.53.100/30
-212.48.54.56/30
-212.48.54.52/30
-212.48.53.252/30
-212.48.54.60/30
-212.48.53.92/30
-212.48.53.196/30
-212.48.54.36/30
-212.48.53.200/30
-212.48.53.216/30
-212.48.53.236/30
-212.48.53.244/30
-212.48.53.240/30
-212.48.53.248/30
-212.48.53.84/30
-212.48.54.252/30
-212.48.54.248/30
-212.48.54.244/30
-212.48.54.240/30
-212.48.54.220/30
-212.48.54.216/30
-212.48.54.212/30
-212.48.54.208/30
-212.48.54.200/30
-212.48.54.196/30
-212.48.54.188/30
-212.48.54.184/30
-212.48.54.180/30
-212.48.54.176/30
 212.48.54.172/30
 212.48.54.168/30
-212.48.54.164/30
-212.48.54.156/30
-212.48.54.152/30
-212.48.54.148/30
-212.48.54.144/30
-212.48.54.140/30
-212.48.54.136/30
-212.48.54.132/30
-212.48.54.128/30
-212.48.54.124/30
-212.48.54.120/30
-212.48.54.116/30
-212.48.54.112/30
-212.48.54.108/30
-212.48.54.104/30
-212.48.54.100/30
-212.48.54.96/30
-212.48.54.92/30
-212.48.54.84/30
-212.48.54.80/30
-212.48.54.76/30
-212.48.54.72/30
-212.48.54.68/30
-212.48.54.64/30
-212.48.54.48/30
-212.48.53.144/30
-212.48.53.152/30
-212.48.54.44/30
 212.48.54.20/30
-212.48.54.16/30
-212.48.54.32/30
-212.48.54.24/30
-212.48.54.12/30
-212.48.54.8/30
-212.48.54.0/30
-212.48.53.88/30
+212.48.54.140/30
 212.48.53.160/30
+212.48.53.252/30
+212.48.54.16/30
 212.48.53.156/30
+212.48.54.216/30
+212.48.54.152/30
+212.48.54.240/30
+212.48.54.56/30
+212.48.54.244/30
+212.48.54.248/30
+212.48.54.64/30
+212.48.53.196/30
+212.48.54.156/30
+212.48.54.132/30
+212.48.54.84/30
+212.48.54.128/30
+212.48.54.252/30
 212.48.53.164/30
+212.48.54.164/30
 212.48.53.184/30
 212.48.53.188/30
 212.48.53.192/30
+212.48.54.124/30
+212.48.54.120/30
 89.175.188.184/29
-89.175.176.88/30
+212.48.54.116/30
+212.48.53.100/30
+212.48.54.24/30
+212.48.54.52/30
+212.48.53.248/30
+212.48.53.240/30
+212.48.53.84/30
+212.48.53.244/30
+212.48.53.236/30
+212.48.54.36/30
+212.48.54.112/30
+212.48.54.108/30
+212.48.54.80/30
+212.48.54.212/30
+212.48.54.104/30
+212.48.54.100/30
+212.48.53.88/30
+212.48.54.96/30
+212.48.54.208/30
+212.48.54.0/30
+212.48.54.8/30
+212.48.54.12/30
+212.48.54.92/30
 89.175.174.136/29
+212.48.54.184/30
+212.48.54.200/30
+212.48.54.196/30
+212.48.54.76/30
+212.48.54.72/30
+212.48.54.188/30
+212.48.54.68/30
+212.48.53.200/30
+212.48.53.216/30
+89.175.176.88/30
+212.48.54.144/30
+212.48.54.44/30
+212.48.53.76/30
+212.48.54.148/30
+212.48.54.136/30
+212.48.54.176/30
+212.48.54.180/30
+212.48.53.92/30
+212.48.54.60/30
+212.48.54.48/30
+212.48.54.220/30
+212.48.54.32/30
+212.48.54.28/30
+212.48.53.152/30
+212.48.53.144/30
 
 # Networks announced by AS21017
 # AS-Name: GCSMVD9JAN54-NET
@@ -3118,25 +3073,25 @@
 # Networks announced by AS12389
 # AS-Name: GIBDD-GUVD-PERM
 # Traffic police regiment of the Municipal Department of Internal Affairs on the Perm edge
-# Perm region, Russia
-# 11, Kommunarov str., Lysva,
 # Perm, Russia
-# 38, Sovetskaya str., Chaikovskiy,
+# Perm region, Russia
 # 5, Entuziastov str., Krasnokamsk,
 # 27, Karla Marksa str., Kungur,
-# 80, Gagarina park., Perm,
-# 67, Lunacharskogo str., Nytva,
 # 227, 20 let pobedy str., Solikamsk,
 # 24, Karla Marksa str., Karagay,
-90.150.189.32/29
+# 80, Gagarina park., Perm,
+# 11, Kommunarov str., Lysva,
+# 67, Lunacharskogo str., Nytva,
+# 38, Sovetskaya str., Chaikovskiy,
 212.120.184.64/29
-212.120.184.48/29
 212.120.189.208/29
 212.120.190.112/29
-212.120.169.48/29
-212.120.174.88/29
 83.219.13.184/29
 83.219.13.128/29
+212.120.169.48/29
+90.150.189.32/29
+212.120.174.88/29
+212.120.184.48/29
 
 # Networks announced by AS21479
 # AS-Name: GIPRODORNII-ROSTOV-NET
@@ -3149,15 +3104,14 @@
 87.117.26.224/29
 87.117.22.196/30
 
-# Networks announced by AS59801,AS52184
+# Networks announced by AS52184,AS59801
 # AS-Name: GIVC
-# Org: Main Center of Information and Computing Ministry of culture of Russian Federation
 # Main Center of Information and Computing
 # Ministry of culture of Russian Federation
 # st. Staraya Basmannaya, 19, building 1
 # 105066 Moscow Russia
-193.232.70.0/24
 194.190.9.0/24
+193.232.70.0/24
 
 # Networks announced by AS8359
 # AS-Name: GKOVD
@@ -3221,12 +3175,12 @@
 
 # Networks announced by AS20632
 # AS-Name: GOS-STATISTIKA-LAN
-# Gos.Statistika
+# Pr.Popova,39
 # St.Petersburg
 # JSC PeterStar
-# Pr.Popova,39
-109.124.101.16/30
+# Gos.Statistika
 46.47.248.132/30
+109.124.101.16/30
 
 # Networks announced by AS20632
 # AS-Name: GOS-UNIVERSITET-IMENI-A-S-PUSHKINA-LAN
@@ -3263,18 +3217,13 @@
 # Government of Respublic Karelia
 94.143.243.80/28
 
-# Networks announced by AS57637
-# AS-Name: GOVKHABARK-NET
-# Org: Government of the Khabarovsk Krai
-91.233.247.0/24
-
-# Networks announced by AS12389,AS8342
+# Networks announced by AS8342,AS12389
 # AS-Name: GOVSVR
+# The Government of Sverdlovsk region
 # Government of Sverdlovsk region
 # Russia
-# The Government of Sverdlovsk region
-212.220.21.0/24
 195.161.205.0/24
+212.220.21.0/24
 
 # Networks announced by AS8359
 # AS-Name: GRFC
@@ -3383,11 +3332,11 @@
 
 # Networks announced by AS12389
 # AS-Name: GUFSIN-NET
-# GUFSIN Service of execution of punishments Perm region, Russia
 # GUFSIN Service of execution of punishments Perm region, Perm, Russia
 # 47a, Geroev Hasana str., Perm
-89.20.113.120/29
+# GUFSIN Service of execution of punishments Perm region, Russia
 212.120.188.0/29
+89.20.113.120/29
 
 # Networks announced by AS12389
 # AS-Name: GUFSIN_Krasnoyarsk
@@ -3515,11 +3464,6 @@
 # Ekaterinburg, Russia
 188.43.52.0/24
 
-# Networks announced by AS25227
-# AS-Name: Garant-Stolica
-# Moscow, Profsouznaya 84/32, IPM
-81.95.135.72/29
-
 # Networks announced by AS8359
 # AS-Name: Gazfond
 # Joint Stock Company Gazfond Non-State Pension Fund
@@ -3545,8 +3489,8 @@
 # Gos-Musey-Zapovednik-Petergof-LAN
 # St.Petersburg
 # JSC PeterStar
-82.140.115.80/29
 82.140.115.152/29
+82.140.115.80/29
 
 # Networks announced by AS20632
 # AS-Name: Gos-NII-Himiko-Analiticheskiy-LAN
@@ -3633,8 +3577,8 @@
 # Networks announced by AS60643
 # AS-Name: IMTSA-NET
 # FSBO "Information and methodological center for analysis"
-80.250.167.0/24
 86.110.104.0/24
+80.250.167.0/24
 
 # Networks announced by AS8299
 # AS-Name: INF-CLNT-GRPZ
@@ -3657,8 +3601,8 @@
 # Networks announced by AS8359
 # AS-Name: INFORMAVTODOR
 # FGBU <INFORMAVTODOR>
-212.248.60.120/30
 89.175.176.24/30
+212.248.60.120/30
 
 # Networks announced by AS20632
 # AS-Name: INSTITUT-PRIKLADNYKH-ISSLEDOVANII-LAN
@@ -3761,19 +3705,19 @@
 # Petrozavodsk, Karelia, Russia
 217.106.115.72/29
 
-# Networks announced by AS20632,AS31213
+# Networks announced by AS31213,AS20632
 # AS-Name: KARELSKAYA-TAMOZHNYA-LAN
-# KARELSKAYA-TAMOZHNYA
-# Petrozavodsk
-# JSC PeterStar
 # Karelskaya Tamozhnya
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
 # Karelskaya tamozhnya
-84.204.168.184/30
-84.204.167.248/30
+# Petrozavodsk
+# JSC PeterStar
+# KARELSKAYA-TAMOZHNYA
 37.29.58.28/30
 46.47.198.72/30
+84.204.167.248/30
+84.204.168.184/30
 
 # Networks announced by AS20632
 # AS-Name: KARELVODOKANAL-SORTAVALA-FABRICHNII-LAN
@@ -3786,9 +3730,9 @@
 # AS-Name: KAZNA
 # Federal Treasury in Vladimirskaya obl.
 # Federal Tax Service, Kovrov
-84.53.202.208/28
-84.53.208.56/29
 84.53.208.48/29
+84.53.208.56/29
+84.53.202.208/28
 
 # Networks announced by AS20632
 # AS-Name: KAZNA-INET-ARH-LAN
@@ -3797,20 +3741,20 @@
 # JSC PeterStar
 195.144.245.0/26
 
-# Networks announced by AS20632,AS31213
+# Networks announced by AS31213,AS20632
 # AS-Name: KAZNA-LAN
-# Kazna
-# St.Petersburg
-# JSC PeterStar
-# Rybinsk.Novikova,4
-# Yaroslavl
 # MUR,Vidjaevo,VCh77360
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
-213.172.15.180/30
-84.204.154.72/30
+# Rybinsk.Novikova,4
+# Yaroslavl
+# JSC PeterStar
+# Kazna
+# St.Petersburg
 37.29.51.84/30
+84.204.154.72/30
 78.25.99.112/30
+213.172.15.180/30
 
 # Networks announced by AS31213
 # AS-Name: KAZNA-PSKOV-GOGOLYA-55-78-LAN
@@ -3821,50 +3765,50 @@
 
 # Networks announced by AS31213
 # AS-Name: KAZNACHEISTVO
-# Torzhok
+# Toropec
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
-# Sandovo
-# Ostashkov
-# Kuvshinovo
-# Kaljazin
-# Starica
-# Rzhev
-# Peno
-# Bezheck
-# Andreapol
-# Toropec
-# Belyj
 # Olenino
-# Nelidovo
-# Selizharovo
+# Andreapol
+# Bezheck
 # Kimry
-# Zubcov
-# Tver
+# Selizharovo
+# Peno
+# Torzhok
 # Zap.Dvina
+# Rzhev
+# Kuvshinovo
+# Belyj
+# Tver
 # V.Volochek
+# Nelidovo
+# Zubcov
+# Sandovo
+# Kaljazin
+# Ostashkov
 # Vesjegonsk
-78.25.102.28/30
-78.25.102.16/30
-78.25.102.4/30
-78.25.98.248/30
-78.25.98.240/30
-78.25.102.24/30
-78.25.102.12/30
-78.25.102.8/30
-78.25.102.40/30
-78.25.102.36/30
+# Starica
 78.25.102.32/30
-78.25.102.44/30
 78.25.102.0/30
-78.25.98.252/30
-78.25.102.20/30
+78.25.102.36/30
+78.25.102.40/30
 78.25.98.244/30
-78.25.98.232/30
-78.25.98.236/30
+78.25.102.20/30
+78.25.102.8/30
+78.25.102.28/30
 78.25.98.228/30
+78.25.102.12/30
+78.25.98.248/30
+78.25.102.44/30
+78.25.98.236/30
 78.25.98.224/30
+78.25.98.252/30
+78.25.98.232/30
+78.25.102.16/30
+78.25.98.240/30
+78.25.102.4/30
 78.25.98.220/30
+78.25.102.24/30
 
 # Networks announced by AS31213
 # AS-Name: KAZNACHEISTVO-KOVDOR-INET-LAN
@@ -3875,65 +3819,65 @@
 
 # Networks announced by AS31213
 # AS-Name: KAZNACHEISTVO-LAN
-# MUR,Kandalaksha
+# Spirovo
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
-# Firovo
+# MUR,Kandalaksha
 # Bologoe
-# Spirovo
-# Rameshki
-# Maksatiha
-# Lihoslavl
 # Kashin
-78.25.98.56/30
-78.25.98.212/30
-78.25.98.208/30
+# Rameshki
+# Firovo
+# Lihoslavl
+# Maksatiha
 78.25.98.200/30
-78.25.98.196/30
-78.25.98.192/30
-78.25.98.188/30
+78.25.98.56/30
+78.25.98.208/30
 78.25.98.184/30
+78.25.98.196/30
+78.25.98.212/30
+78.25.98.188/30
+78.25.98.192/30
 
 # Networks announced by AS20632
 # AS-Name: KAZNACHEISTVO-YAR
-# Myshkin,Nikolskaja,15
+# Prechistoe,Jaroslavskaja,74
 # Yaroslavl
 # JSC PeterStar
+# Jaroslavl,Polushkina,roshha,16
+# Ljubim,Sovetskaja,10
+# Danilov,pl,Sobornaja,16
 # Rybinsk,Krestovaja,77
+# Borisoglebskij,Transprortnaja,3
+# B,Selo,Surikova,55
+# Myshkin,Nikolskaja,15
 # Pereslavl-Zalesskij,Mendeleeva,22
 # Poshehone,Rybinskaja,1
 # Rostov,Okruzhnaja,60
 # Tutaev,Sobornaja,41
-# Danilov,pl,Sobornaja,16
 # Uglich,Rybinskoe,22
-# Prechistoe,Jaroslavskaja,74
 # Nekrasovskoe,Shkolnaja,1
 # Brejtovo,Respublikanskaja,28
-# Ljubim,Sovetskaja,10
 # Gavrilov-Jam,Klubnaja,5
 # Nekouz,Kooperativnaja,16
 # Jaroslavl,Oktjabrja,62
-# Jaroslavl,Polushkina,roshha,16
-# Borisoglebskij,Transprortnaja,3
-# B,Selo,Surikova,55
-84.204.241.120/29
+84.204.42.224/29
+84.204.42.240/29
+84.204.42.216/29
+84.204.42.208/29
 84.204.42.232/29
+84.204.42.192/29
+84.204.42.200/29
+84.204.241.120/29
 84.204.241.96/29
 84.204.241.112/29
 84.204.241.88/29
 84.204.241.104/29
-84.204.42.208/29
 84.204.241.80/29
-84.204.42.224/29
 84.204.241.64/29
 84.204.241.56/29
-84.204.42.216/29
 84.204.241.72/29
 84.204.241.48/29
 84.204.241.24/29
-84.204.42.240/29
-84.204.42.192/29
-84.204.42.200/29
 
 # Networks announced by AS12695
 # AS-Name: KAZNACHEYSTVO
@@ -4116,11 +4060,11 @@
 
 # Networks announced by AS8359
 # AS-Name: LABOR
+# Labor and Employment Committee of Moscow City Government
 # Labor and Employment Committee
 # of Moscow City Government
-# Labor and Employment Committee of Moscow City Government
-195.7.160.0/24
 195.7.180.0/24
+195.7.160.0/24
 195.7.170.0/24
 
 # Networks announced by AS3253
@@ -4181,11 +4125,21 @@
 # Association "All-Russian Association for the Development of Local Self-Government"
 62.118.178.216/29
 
-# Networks announced by AS25227
-# AS-Name: M-BANK
-# Mos Stroj Ekonom Bank
-# Moscow, Profsouznaya 78
-5.61.8.96/28
+# Networks announced by AS214822
+# AS-Name: M9-MSK-RU-RUVDS
+# Org: MT FINANCE LLC
+194.87.46.0/24
+195.133.31.0/24
+62.76.228.0/24
+87.247.157.0/24
+194.87.244.0/24
+195.58.54.0/24
+195.133.199.0/24
+45.10.245.0/24
+194.87.253.0/24
+195.133.45.0/24
+194.87.80.0/24
+194.87.207.0/24
 
 # Networks announced by AS21479
 # AS-Name: MAF-ROSTOV-NET
@@ -4193,8 +4147,8 @@
 # Krasnoarmyskay 33
 # Rostov-on-Don, Rostovskaia oblast, 344002
 87.117.17.224/29
-87.117.45.40/29
 87.117.45.32/29
+87.117.45.40/29
 
 # Networks announced by AS44546
 # AS-Name: MAGADAN-IT-NET
@@ -4228,8 +4182,8 @@
 # Networks announced by AS29226
 # AS-Name: MASTERTEL-1000008315
 # Mastertel Network For nalogovaya
-109.73.41.64/30
 31.44.82.64/30
+109.73.41.64/30
 
 # Networks announced by AS29226
 # AS-Name: MASTERTEL-1000012218
@@ -4286,12 +4240,12 @@
 # Mastertel Network For Premialnii-Otnosheniya
 109.73.45.64/29
 
-# Networks announced by AS12389,AS39442
+# Networks announced by AS39442,AS12389
 # AS-Name: MCHS
-# Samara branch of MCHS of Russia
 # Firefighters
-88.200.208.112/29
+# Samara branch of MCHS of Russia
 92.39.106.168/30
+88.200.208.112/29
 213.234.18.52/30
 
 # Networks announced by AS20632
@@ -4299,8 +4253,8 @@
 # KNG,Narvskaya,52
 # Kaliningrad
 # JSC PeterStar
-212.44.67.8/30
 93.153.146.200/30
+212.44.67.8/30
 
 # Networks announced by AS8371
 # AS-Name: MCHS-NNOV-NET
@@ -4430,10 +4384,10 @@
 
 # Networks announced by AS12389
 # AS-Name: MChS_Rossii_po_Respublike_Tyva
-# Ticket 10-39574
 # Ticket 10-35045
-46.61.143.16/29
+# Ticket 10-39574
 95.167.216.20/30
+46.61.143.16/29
 
 # Networks announced by AS8371
 # AS-Name: MECLLC-NN
@@ -4487,7 +4441,6 @@
 
 # Networks announced by AS5548
 # AS-Name: MIIT-RZD-NET
-# Org: Federalnoe gosudarstvennoe avtonomnoe obrazovatelnoe uchrezhdenie vysshego obrazovaniya "Rossiyskiy Universitet Transporta"
 # RANR-VALID-0gAAAABml4lAWSwvTWnZNb2WLUG8nfWQ
 195.245.205.0/24
 
@@ -4561,126 +4514,125 @@
 
 # Networks announced by AS199148
 # AS-Name: MINZDRAV-RF-PI-NET
-# Org: Ministry of Health of Russian Federation
 194.0.219.0/24
 
 # Networks announced by AS12389,AS12705
 # AS-Name: MIR-SUD-PERM
-# Agency on maintenance of activity of world judges of the Perm edge, Perm, Russia
-# 36, Soldatova pr., Perm,
 # Agency on maintenance of activity of world judges of the Perm edge, Perm region, Russia
-# 22, Sovetskaya str., Orda,
-# 40, Kashina str., Gayny,
-# 1, Tsentralnaya str., Plehanovo,
-# 4, Stepana Razina str., Nytva,
-# 16, Panfilova str., Perm,
-# 4, Zagorodnaya str., Kudimkar,
-# 15, Molodeghnaya str., Solikamsk,
-# 14, Mira pr., Krasnokamsk,
-# 9, Naumova str., Bolshaya Sosnova,
-# 3, Kalinina str., Aleksandrovsk,
-# 2, Workers-Kreasants str., Perm,
-# 61, Lenina str., Berezniki,
-# 10, Promyshlennaya str., Chaikovskiy,
-# 51, Lenina pr., Siva,
-# 73, Lenina pr., Perm,
-# 3, Chernyshevskogo str., Perm,
-# 41, Permdorstroy str., Chernushka,
-# 78, Mira str., Perm,
-# 25, Lebedeva str., Perm,
-# 1, Pesochnaya str., Perm,
-# 164A, Lenina str., Gremyachinsk,
-# 5, Lobvinskaya str., Perm,
 # 66, Pushkina str., Perm,
-# 8/2, Shmidta str., Lysva,
-# 11, Ubileynaya str., Berezniki,
-# 7, Fedoseeva str., Lysva,
-# 106, Lomonosova pr., Berezniki,
-# 155, Svobody str., Usolye,
-# 13, Podlesnaya str., Perm,
-# 23, Karla Marksa str., Karagay,
-# 23, Ughdavinisa str., Nyrob,
-# 41, Traktovaya str., Oktyabrskiy,
-# 24, Lenina str., Vereshchagino,
-# 2, Transportnaya str., Lyady,
-# 21, Sverdlova str., Urla,
-# 26, Kamenskogo str., Perm,
-# 2, Krupskoy str., Kochevo,
-# 76, Mira str., Perm,
-# 80, Bolshevistskaya str., Perm,
-# 3, Energetikovstr., Yayva,
-# 12, Drughby str., Perm,
-# 4, Traktovaya str., Kueda,
-# 9, Sovetskaya str., Krasnovishersk,
-# 13, Lenina str., Elovo,
-# 8, Garden Ring str., Perm region,
 # 21, Lenina str., Gubaha,
-# 27, Permyatcskaya str., Kosa,
-# 8, Sadovoe kolcsho str., Kondratovo,
-# 26, Stepana Razina str., Kungur,
-# 18, Chechulina str., Usva,
 # 17, Sovetskaya str., Uinskoe,
+# 22, Sovetskaya str., Orda,
+# 27, Permyatcskaya str., Kosa,
+# 4, Zagorodnaya str., Kudimkar,
+# 106, Lomonosova pr., Berezniki,
+# 23, Ughdavinisa str., Nyrob,
+# 7, Fedoseeva str., Lysva,
+# 9, Naumova str., Bolshaya Sosnova,
+# Agency on maintenance of activity of world judges of the Perm edge, Perm, Russia
+# 16, Panfilova str., Perm,
+# 1, Tsentralnaya str., Plehanovo,
+# 8/2, Shmidta str., Lysva,
+# 26, Stepana Razina str., Kungur,
+# 3, Kalinina str., Aleksandrovsk,
+# 155, Svobody str., Usolye,
+# 13, Lenina str., Elovo,
+# 2, Krupskoy str., Kochevo,
+# 23, Karla Marksa str., Karagay,
+# 61, Lenina str., Berezniki,
+# 164A, Lenina str., Gremyachinsk,
+# 41, Traktovaya str., Oktyabrskiy,
+# 9, Sovetskaya str., Krasnovishersk,
+# 15, Molodeghnaya str., Solikamsk,
+# 4, Stepana Razina str., Nytva,
+# 2, Workers-Kreasants str., Perm,
+# 13, Podlesnaya str., Perm,
+# 8, Garden Ring str., Perm region,
+# 40, Kashina str., Gayny,
+# 3, Energetikovstr., Yayva,
+# 80, Bolshevistskaya str., Perm,
+# 76, Mira str., Perm,
+# 26, Kamenskogo str., Perm,
 # 58, Urganovskaya str., Cherdyn,
-# 37, Plehanova str., Perm,
+# 4, Traktovaya str., Kueda,
+# 5, Lobvinskaya str., Perm,
+# 1, Pesochnaya str., Perm,
+# 25, Lebedeva str., Perm,
+# 78, Mira str., Perm,
+# 41, Permdorstroy str., Chernushka,
 # 2, Poletaevskaya str., Kungur,
 # 9, Shkolnaya str., Bershet,
-188.17.144.8/29
-212.120.190.200/29
-212.120.191.64/29
-83.219.13.144/29
-188.17.144.80/29
-83.219.5.152/29
-83.219.13.240/29
-188.17.144.48/29
-188.17.144.40/29
-83.219.7.152/29
-212.120.184.176/29
-188.17.151.88/29
-212.120.183.136/29
-188.17.144.56/29
-188.17.144.112/29
-94.51.95.152/29
-94.51.95.224/29
-188.17.144.120/29
-94.51.95.168/29
-94.51.95.200/29
-94.51.95.208/29
-188.17.144.32/29
-94.51.95.216/29
+# 11, Ubileynaya str., Berezniki,
+# 37, Plehanova str., Perm,
+# 12, Drughby str., Perm,
+# 18, Chechulina str., Usva,
+# 14, Mira pr., Krasnokamsk,
+# 8, Sadovoe kolcsho str., Kondratovo,
+# 21, Sverdlova str., Urla,
+# 2, Transportnaya str., Lyady,
+# 24, Lenina str., Vereshchagino,
+# 36, Soldatova pr., Perm,
+# 3, Chernyshevskogo str., Perm,
+# 73, Lenina pr., Perm,
+# 51, Lenina pr., Siva,
+# 10, Promyshlennaya str., Chaikovskiy,
 94.51.95.232/29
-212.120.189.88/29
-212.120.164.248/29
-212.120.189.8/29
-212.120.184.232/29
-83.219.7.96/29
-94.51.95.128/29
-83.219.7.64/29
-83.219.5.64/29
-188.17.144.88/29
-188.17.144.64/29
-188.17.144.16/29
-188.17.144.128/29
-94.51.95.136/29
-83.219.5.80/29
-94.51.95.176/29
-94.51.95.192/29
-188.17.144.24/29
-83.219.6.88/29
-83.219.7.32/29
-188.17.144.72/29
-212.120.190.144/29
-188.17.147.88/29
 212.120.188.24/29
-83.219.5.8/29
-83.219.7.24/29
-212.120.188.152/29
-188.17.144.136/29
 94.51.95.96/29
+212.120.190.200/29
+83.219.5.8/29
+83.219.13.240/29
+212.120.184.232/29
+83.219.5.64/29
+212.120.189.8/29
+83.219.7.152/29
 212.120.162.208/29
+83.219.5.152/29
+83.219.13.144/29
+212.120.189.88/29
+212.120.188.152/29
+212.120.184.176/29
+83.219.7.96/29
+212.120.190.144/29
+83.219.5.80/29
+83.219.7.64/29
+212.120.183.136/29
+188.17.144.32/29
+188.17.144.88/29
+188.17.144.72/29
+188.17.144.48/29
+188.17.144.80/29
+188.17.151.88/29
+94.51.95.128/29
+188.17.147.88/29
+212.120.191.64/29
+188.17.144.24/29
+94.51.95.192/29
+94.51.95.176/29
+94.51.95.136/29
 83.219.5.120/29
-94.51.95.144/29
+83.219.7.32/29
+94.51.95.216/29
+94.51.95.208/29
+94.51.95.200/29
+94.51.95.168/29
+188.17.144.120/29
 83.219.14.112/29
 188.17.144.104/29
+212.120.164.248/29
+94.51.95.144/29
+83.219.6.88/29
+188.17.144.136/29
+188.17.144.40/29
+83.219.7.24/29
+188.17.144.128/29
+188.17.144.16/29
+188.17.144.64/29
+188.17.144.8/29
+94.51.95.224/29
+94.51.95.152/29
+188.17.144.112/29
+188.17.144.56/29
 
 # Networks announced by AS31213
 # AS-Name: MIRA-129-MCHS-LAN
@@ -4688,12 +4640,6 @@
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
 37.29.60.80/30
-
-# Networks announced by AS12668
-# AS-Name: MIRALOGIC-NET-173
-# FGUP NTC Atlas FSB Rossii
-# Yekaterinburg, Russian Federation
-212.49.107.224/27
 
 # Networks announced by AS12668
 # AS-Name: MIRALOGIC-NET-181
@@ -4735,7 +4681,7 @@
 
 # Networks announced by AS8342
 # AS-Name: MNS-M9978
-# Ministry of Taxation, Tax Inspection 8, SPb region
+# Ministry of Taxation, Tax Inspection ¹8, SPb region
 213.59.91.32/29
 
 # AS-Name: MNSHMAO
@@ -4858,19 +4804,14 @@
 # AS-Name: MRO-FSS-RF
 # Filial N 32 MRO FSS RF
 # Moscow, Russia
-81.195.48.88/30
 81.195.48.96/30
+81.195.48.88/30
 81.195.48.52/30
 
 # Networks announced by AS8359
 # AS-Name: MRO_FSS_RF
 # Subnetwork for AV583-RIPE
 62.5.144.64/26
-
-# Networks announced by AS25227
-# AS-Name: MSEB
-# Moscow, Profsouznaya 84
-81.95.135.64/30
 
 # Networks announced by AS48347
 # AS-Name: MSK-BNK-RU-RUVDS
@@ -4887,14 +4828,14 @@
 # Networks announced by AS8359
 # AS-Name: MTU-CUST-0034780C
 # FGUP "Zavod "TOPAZ"
-62.118.209.192/30
 62.5.132.224/29
+62.118.209.192/30
 
 # Networks announced by AS8359
 # AS-Name: MTU-CUST-01BD1666
 # OOO "Kompanija Audit Nalogi Pravo"
-62.118.229.208/29
 81.195.243.236/30
+62.118.229.208/29
 
 # Networks announced by AS8359
 # AS-Name: MTU-CUST-030A4E7B
@@ -4949,8 +4890,8 @@
 # AS-Name: MTU-CUST-1C0627FC
 # FGLPU "POLIKLINIKA FNS ROSSII"
 # Moscow, Russia
-85.141.57.112/28
 85.141.57.160/28
+85.141.57.112/28
 
 # Networks announced by AS8359
 # AS-Name: MTU-CUST-1C1546F6
@@ -5054,8 +4995,8 @@
 # Networks announced by AS8359
 # AS-Name: MTU-CUST-5F25932F
 # FGUP "NIIIT"
-62.118.230.4/30
 81.195.125.96/30
+62.118.230.4/30
 
 # Networks announced by AS8359
 # AS-Name: MTU-CUST-63D9942D
@@ -5202,8 +5143,8 @@
 # Networks announced by AS8359
 # AS-Name: MTU-CUST-DB5D1BDF
 # OOO "Tamozhennie tehnologii"
-62.118.235.176/29
 81.195.193.128/28
+62.118.235.176/29
 
 # Networks announced by AS8359
 # AS-Name: MTU-CUST-DBC24E32
@@ -5373,10 +5314,10 @@
 
 # Networks announced by AS12389
 # AS-Name: MVD_Elista
-# RISS 9319, UgF
 # Ticket 09-18762-1
-188.128.113.48/29
+# RISS 9319, UgF
 92.50.198.68/30
+188.128.113.48/29
 
 # Networks announced by AS12389
 # AS-Name: MVD_RD
@@ -5402,8 +5343,8 @@
 # AS-Name: Minapk-NN-NET
 # Personal network for
 # Ministry of Agriculture and food resources
-82.208.110.208/29
 82.208.90.64/29
+82.208.110.208/29
 
 # Networks announced by AS12389
 # AS-Name: Minfin-Samara
@@ -5475,7 +5416,7 @@
 
 # Networks announced by AS16012
 # AS-Name: Mintrans
-# FGUP UVO Mintransa Rossii
+# FGUP «UVO Mintransa Rossii»
 212.48.34.184/29
 
 # Networks announced by AS8359
@@ -5505,32 +5446,32 @@
 
 # Networks announced by AS34168
 # AS-Name: NALOG
-# Federal Tax Service, Suzdal
 # Federal Tax Service, Vyazniki
+# Federal Tax Service, Suzdal
 # Federal Tax Service
-84.53.197.248/29
 84.53.210.136/29
-84.53.197.224/29
+84.53.197.248/29
 84.53.197.232/29
+84.53.197.224/29
 
 # Networks announced by AS12389
 # AS-Name: NALOG-NET
+# The Ministry of Taxation of the Russian Federation in Nizhny
 # The Ministry of Taxation of the Russian Federation
 # in Nizhny Novgorod Region
 # About abuse activity please
 # e-mail to abuse@mts-nn.ru
 # Personal network for
 # e-mail to adm52@r52.nalog.ru
-# The Ministry of Taxation of the Russian Federation in Nizhny
+213.177.111.0/24
 82.208.81.0/24
 82.208.93.160/27
-213.177.111.0/24
 
 # Networks announced by AS8342
 # AS-Name: NALOG-RU
 # AO GNIVC
-81.177.5.176/28
 81.177.31.0/27
+81.177.5.176/28
 81.177.19.192/28
 
 # Networks announced by AS12332
@@ -5566,7 +5507,7 @@
 
 # Networks announced by AS8359
 # AS-Name: NEFTEGARANT
-# Joint stock company "non-State pension Fund "NEFTEGARANT
+# Joint stock company "non-State pension Fund "NEFTEGARANT»
 83.242.147.136/29
 
 # Networks announced by AS28745
@@ -5605,7 +5546,6 @@
 195.208.64.0/20
 195.209.64.0/20
 195.209.80.0/20
-195.209.192.0/20
 
 # AS-Name: NGENIX-AKADO-NET
 # Network for NGENIX, Moscow Akado
@@ -5814,9 +5754,9 @@
 # Networks announced by AS214822
 # AS-Name: NSK-RU-RUVDS
 # Org: MT FINANCE LLC
-195.133.198.0/24
-45.10.246.0/24
 194.87.213.0/24
+45.10.246.0/24
+195.133.198.0/24
 
 # Networks announced by AS21332
 # AS-Name: NTC-VVO-CITO_GUFSIN_FSI-Rout-NET
@@ -5868,17 +5808,17 @@
 
 # Networks announced by AS8359
 # AS-Name: Nauka-NETWORK
-# FGUP Izdatel'stvo Nauka
+# FGUP «Izdatel'stvo «Nauka»
 89.175.6.64/27
 
 # Networks announced by AS12389
 # AS-Name: Negosudarstvennyj_pensionnyj_fond_Almaznaja_osen
 # Ticket 10-25952-2
-# Ticket 10-25951-2
 # Ticket 10-25720-2
+# Ticket 10-25951-2
 95.167.172.88/30
-95.167.172.84/30
 95.167.172.80/30
+95.167.172.84/30
 
 # Networks announced by AS196695
 # AS-Name: NetONE-1357
@@ -5911,12 +5851,6 @@
 # 80, Obuhovskaya Oborona
 # 193029, St.-Petersburg
 195.239.136.64/28
-
-# Networks announced by AS25227
-# AS-Name: NoyblHouseHolding
-# VoIP NET
-# Moscow, Profsouznaya 32
-31.13.19.88/30
 
 # Networks announced by AS8359
 # AS-Name: OAO-Podvodspectransnefteprodukt
@@ -5984,8 +5918,8 @@
 # Ohrana MBV Filial Perm network, Perm, Russia
 # 8a, Karpinskogo str.,
 195.54.28.72/30
-89.20.122.48/29
 89.20.112.152/29
+89.20.122.48/29
 
 # Networks announced by AS12389
 # AS-Name: OHRANA-NN1-NET
@@ -6001,11 +5935,11 @@
 # Networks announced by AS214822
 # AS-Name: OK-MSK-RU-RUVDS
 # Org: MT FINANCE LLC
+195.133.46.0/24
 45.10.247.0/24
 194.87.57.0/24
-195.133.32.0/24
 194.87.254.0/24
-195.133.46.0/24
+195.133.32.0/24
 194.87.107.0/24
 
 # Networks announced by AS214822
@@ -6088,19 +6022,24 @@
 # OPFR Novosibirsk
 # Serebrennikovskaya st., 19/1
 # 630007, Russia, Novosibirsk
-82.200.18.240/29
 80.89.147.112/28
+82.200.18.240/29
 
 # Networks announced by AS56881
 # AS-Name: ORG-FSUE12-RIPE
 # Org: Joint Stock Company "Scientific and Technical Center "Atlas"
 2001:67c:18a4::/48
 
-# Networks announced by AS215810,AS44704
+# Networks announced by AS29182
+# AS-Name: ORG-JI50-RIPE
+# Org: JSC IOT
+157.22.192.0/20
+
+# Networks announced by AS44704,AS215810
 # AS-Name: ORG-XCCL1-RIPE
 # Org: PJSC X5 Corporate Center
-46.173.21.0/24
 91.206.100.0/23
+46.173.21.0/24
 
 # Networks announced by AS51932
 # AS-Name: ORVD-NET
@@ -6208,10 +6147,10 @@
 # Pension Fund Of the Russian Federation
 # 20A, Akademika Anohina str.
 # 119602, Moscow, Russia
-213.24.160.72/29
 213.24.26.0/25
-213.24.25.0/24
+213.24.160.72/29
 81.177.15.0/24
+213.24.25.0/24
 81.177.24.128/25
 
 # Networks announced by AS20632
@@ -6332,39 +6271,39 @@
 # Networks announced by AS12332
 # AS-Name: POL-DEPFEDMIGSERV-NET
 # State Government, Department of federal migratory servicies
-# 66, Lermontova st., Trudovoe, Vladivostok, Russia
-# +7 4232 387092
 # 3, Kalinina st., Kraskino, Russia
 # +7 42331 30999
 # 1, Naberezhnaya st., Zarubino, Russia
 # +7 42331 50238
-# 24, Vostochnaya Sloboda st., Barabash, Russia
-# +7 42331 54054
-# 0, Lenina st., Chkalovskoe, Russia
-# +7 42352 75112
-# 60, Dalnerechenskaya st., Dalnerechensk, Russia
-# +7 42356 34978
-# 5, Leninskaya st., Spassk-Dalniy, Russia
-# +7 42352 24953
-# 267, Lazo st., Razdol'noe, Russia
-# +7 42334 33232
 # 1/A, Osipenko st., Tavrichanka, Russia
 # +7 42334 25637
+# 66, Lermontova st., Trudovoe, Vladivostok, Russia
+# +7 4232 387092
+# 60, Dalnerechenskaya st., Dalnerechensk, Russia
+# +7 42356 34978
+# 0, Lenina st., Chkalovskoe, Russia
+# +7 42352 75112
+# 267, Lazo st., Razdol'noe, Russia
+# +7 42334 33232
+# 5, Leninskaya st., Spassk-Dalniy, Russia
+# +7 42352 24953
 # 3/A, Makhalina st., Vladivostok, Russia
 # +7 4232 269150
 # 3, Morskaya st., Zarubino, Russia
 # +7 42331 50058
-82.162.89.80/28
+# 24, Vostochnaya Sloboda st., Barabash, Russia
+# +7 42331 54054
 82.162.172.80/28
 82.162.172.160/28
-82.162.173.96/28
-86.102.199.128/28
-86.102.199.144/28
-86.102.199.176/28
-82.162.161.128/28
 82.162.167.144/28
+82.162.89.80/28
+86.102.199.144/28
+86.102.199.128/28
+82.162.161.128/28
+86.102.199.176/28
 86.102.55.112/28
 77.35.109.192/28
+82.162.173.96/28
 
 # Networks announced by AS12332
 # AS-Name: POL-DVORANGPNII-NET
@@ -6372,13 +6311,6 @@
 # 19, Russkaya st., 8 apt., Vladivostok, Russia
 # +7 4232 317808
 82.162.80.96/28
-
-# Networks announced by AS12332
-# AS-Name: POL-FSSPR-NET
-# Federal Security Service for Primorsky Region
-# 8, Borisenko st.,  Vladivostok, Russia
-# +7 4234 414515
-82.162.112.144/28
 
 # Networks announced by AS12332
 # AS-Name: POL-KIMVD-NET
@@ -6390,13 +6322,13 @@
 # Networks announced by AS12332
 # AS-Name: POL-KRTPC-NET
 # BRANCH OF FGUP RTRS SEASHORE KRTPC
-# 26, Nerchinskaya st., Vladivostok, Russia
-# +7 4232 433832
 # 1, Sopochnaya st., Vladivostok, Russia
 # +7 4232 303076
+# 26, Nerchinskaya st., Vladivostok, Russia
+# +7 4232 433832
 # +7 4232 401839
-86.102.109.48/28
 82.162.87.192/28
+86.102.109.48/28
 86.102.109.32/28
 
 # Networks announced by AS12332
@@ -6409,25 +6341,25 @@
 # Networks announced by AS12332
 # AS-Name: POL-MCHS-NET
 # MChS
+# 147/A, Makovskogo st., Vladivostok, Russia
+# +7 4232 389298
+# 31 Dalzavodskaya st., Vladivostok, Russia
+# +7 4232 222089
 # 3, Kooperativnaya st., Artem, Russia
 # +7 42337 43896
 # 1/A, Nahimovskaya st., Nalhodka, Russia
 # +7 42366 21374
-# 31 Dalzavodskaya st., Vladivostok, Russia
-# +7 4232 222089
-# 73/A, Russkaya st., Vladivostok, Russia
-# +7 4232 327870
 # 73/A, Russkaya, Vladivostok, Russia
 # +7 4232 240266
-# 147/A, Makovskogo st., Vladivostok, Russia
-# +7 4232 389298
-82.162.103.144/28
+# 73/A, Russkaya st., Vladivostok, Russia
+# +7 4232 327870
+86.102.126.80/28
+77.35.98.240/28
 86.102.108.32/28
 77.34.209.160/28
-77.35.98.240/28
-81.2.10.192/27
 82.162.90.0/28
-86.102.126.80/28
+82.162.103.144/28
+81.2.10.192/27
 
 # Networks announced by AS12332
 # AS-Name: POL-MEDSANUVDPK-NET
@@ -6447,22 +6379,22 @@
 # Networks announced by AS12332
 # AS-Name: POL-MIRSUD-NET
 # GU KhOZYaJSTVENNOE UPRAVLENIE ADMINISTRATZII (MIROVYE SUD'I)
+# 12-220, Borodinskaya st.,  Vladivostok, Russia
+# +7 4232 361985
+# Administration's service department (Justices of the Peace), LTD
+# 9, Naberezhnaya st., Vladivostok, Russia
+# +7 4232 411493
 # 45/A, Aleutskaya st., Vladivostok, Russia
 # +7 4232 400095
 # GU KhOZYaJSTVENNOE UPRAVLENIE ADMINISTRATZII
 # 22, Svetlanskaya st., Vladivostok, Russia
-# +7 4232 222441
 # +7 4232 206244
-# Administration's service department (Justices of the Peace), LTD
-# 9, Naberezhnaya st., Vladivostok, Russia
-# +7 4232 411493
-# 12-220, Borodinskaya st.,  Vladivostok, Russia
-# +7 4232 361985
-82.162.162.144/28
-77.35.79.176/28
-82.162.139.208/28
-86.102.90.112/28
+# +7 4232 222441
 212.91.209.176/28
+86.102.90.112/28
+82.162.162.144/28
+82.162.139.208/28
+77.35.79.176/28
 
 # Networks announced by AS12332
 # AS-Name: POL-NATFISHRES-NET
@@ -6475,10 +6407,10 @@
 # AS-Name: POL-OHRANAMVD-NET
 # Security Department of Primorsky
 # 15/A Pogranichnaya st., Vladivostok, Russia
-# +7 4232 404662
 # +7 4232 404669
-82.162.164.240/28
+# +7 4232 404662
 82.162.160.144/28
+82.162.164.240/28
 
 # Networks announced by AS12332
 # AS-Name: POL-ORTOPROTEZ-NET
@@ -6498,30 +6430,30 @@
 # Networks announced by AS12332
 # AS-Name: POL-PCSSP-NET
 # Primorsky Centre of Social service of population, government institution, GI
-# 15, Iliycheva st., Vladivostok, Russia
-# +7 4232 366416
-# 77, Marksa st., Pokrovka, Russia
-# +7 42344 57658
-# 16, Krasnoarmeiskaya st., Mikhailovka, Russia
-# +7 42346 23846
-# 1, Pionerskaya st., apt. 8, Vladivostok, Russia
-# +7 4232 467818
-# 15, Il'icheva st., Vladivostok, Russia
-# +7 4232 360518
 # 5/A, Geroev-Tikhookeantzev st., Vladivostok, Russia
 # +7 4232 270592
-# 15, Uborevicha st., Vladivostok, Russia
-# +7 4232 432034
+# 15, Iliycheva st., Vladivostok, Russia
+# +7 4232 366416
+# 16, Krasnoarmeiskaya st., Mikhailovka, Russia
+# +7 42346 23846
+# 77, Marksa st., Pokrovka, Russia
+# +7 42344 57658
+# 1, Pionerskaya st., apt. 8, Vladivostok, Russia
+# +7 4232 467818
 # 8 Irtyshskaya st., Vladivostok, Russia
 # +7 4232 line
-86.102.96.64/28
-86.102.138.48/28
-86.102.138.64/28
-77.35.89.240/28
-77.35.97.176/28
+# 15, Il'icheva st., Vladivostok, Russia
+# +7 4232 360518
+# 15, Uborevicha st., Vladivostok, Russia
+# +7 4232 432034
 86.102.111.96/28
-86.102.72.224/28
+86.102.96.64/28
+86.102.138.64/28
+86.102.138.48/28
+77.35.89.240/28
 86.102.102.160/28
+77.35.97.176/28
+86.102.72.224/28
 
 # Networks announced by AS12332
 # AS-Name: POL-PRIMCENTERGOSZAK-NET
@@ -6565,8 +6497,8 @@
 # Federal Government Enterprise "Trade Board of the Pacific Navy"
 # 44, Svetlanskaya st.,  Vladivostok, Russia
 # +7 4232 268946
-82.162.41.208/28
 82.162.141.32/28
+82.162.41.208/28
 
 # Networks announced by AS12332
 # AS-Name: POL-WELLBEINGPF-NET
@@ -6613,7 +6545,6 @@
 
 # Networks announced by AS50571
 # AS-Name: PRLIB
-# Org: FGBU Presidential Library named after NB Yeltsin
 # FGBU Presidential Library named after NB Yeltsin
 # Senatskaya pl. 3
 # 190000 St.Petersburg Russia
@@ -6669,30 +6600,30 @@
 # Prokuratura-NOV
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
+# Prokuratura Nov
 # Novgorod
 # JSC PeterStar
-# Prokuratura Nov
-37.29.57.88/30
-37.29.57.92/30
-37.29.57.80/30
-37.29.57.96/30
-109.124.78.84/30
-37.29.55.212/30
-37.29.57.100/30
-37.29.57.108/30
-37.29.57.112/30
-37.29.57.104/30
-37.29.51.204/30
-37.29.51.200/30
-37.29.57.84/30
-37.29.57.116/30
-37.29.55.208/30
-46.47.254.128/29
-37.29.57.120/30
-37.29.57.124/30
-37.29.58.0/30
-37.29.55.196/30
 37.29.55.192/30
+37.29.57.104/30
+37.29.57.112/30
+37.29.57.116/30
+37.29.57.120/30
+37.29.57.100/30
+37.29.57.124/30
+37.29.51.204/30
+37.29.57.96/30
+37.29.58.0/30
+37.29.57.92/30
+37.29.57.88/30
+37.29.57.108/30
+37.29.57.84/30
+46.47.254.128/29
+37.29.55.196/30
+37.29.55.208/30
+37.29.57.80/30
+37.29.55.212/30
+37.29.51.200/30
+109.124.78.84/30
 
 # Networks announced by AS20632
 # AS-Name: PROKURATURA-NOV-OBL-LAN
@@ -7026,10 +6957,10 @@
 
 # Networks announced by AS15672
 # AS-Name: PULSAR-NET
-# FGUP GZ "PUL'SAR"
 # FGUP NPP "PUL'SAR"
-85.90.99.168/29
+# FGUP GZ "PUL'SAR"
 85.90.101.192/29
+85.90.99.168/29
 
 # Networks announced by AS12705
 # AS-Name: PVI-VV-MVD
@@ -7067,8 +6998,8 @@
 # Networks announced by AS12389
 # AS-Name: Pochta-Russia_Volgograd
 # UFPS Sviazi Volgogradskoy Oblasti - Filial FGUP Pochta Rossii
-95.167.176.0/23
 95.167.213.0/24
+95.167.176.0/23
 
 # Networks announced by AS20985
 # AS-Name: Podvodspectransnefteprodukt-Net
@@ -7154,14 +7085,14 @@
 
 # Networks announced by AS12389
 # AS-Name: Prokuratura_Krasnoyarskogo_kraya
+# Ticket 09-43397-3
 # Ticket 10-08747-3
 # Ticket 10-01371-3
-# Ticket 09-43397-3
-95.167.97.208/30
-95.167.97.12/30
-95.167.97.172/30
-95.167.97.168/30
 95.167.97.16/30
+95.167.97.208/30
+95.167.97.168/30
+95.167.97.172/30
+95.167.97.12/30
 
 # Networks announced by AS12389
 # AS-Name: Prokuratura_RB
@@ -7238,12 +7169,6 @@
 # Obshchestvo s ogranichennoy otvetstvennostyu BiZone
 # 105066, Moscow, Russia 4 Olkhovskaya street, building 2
 178.248.234.1/32
-
-# Networks announced by AS51115
-# AS-Name: QRATOR-12285
-# AO <<ROSBIZNESKONSALTING>>
-# 117393, gorod Moskva, ulica Profsouznaa, dom 78, stroenie 1, etaz 9, pom III, kom 50
-178.248.235.106/32
 
 # Networks announced by AS51115
 # AS-Name: QRATOR-12394
@@ -7402,12 +7327,6 @@
 178.248.238.11/32
 
 # Networks announced by AS51115
-# AS-Name: QRATOR-15223
-# Obshchestvo s ogranichennoy otvetstvennostyu BiZone
-# 105066, Moscow, Russia 4 Olkhovskaya street, building 2
-178.248.238.29/32
-
-# Networks announced by AS51115
 # AS-Name: QRATOR-15293
 # Obshchestvo s ogranichennoy otvetstvennostyu BiZone
 # 105066, Moscow, Russia 4 Olkhovskaya street, building 2
@@ -7490,12 +7409,6 @@
 # Obshchestvo s ogranichennoy otvetstvennostyu BiZone
 # 105066, Moscow, Russia 4 Olkhovskaya street, building 2
 178.248.233.83/32
-
-# Networks announced by AS51115
-# AS-Name: QRATOR-15741
-# Obshchestvo s ogranichennoy otvetstvennostyu BiZone
-# 105066, Moscow, Russia 4 Olkhovskaya street, building 2
-178.248.236.222/32
 
 # Networks announced by AS51115
 # AS-Name: QRATOR-15743
@@ -7911,57 +7824,57 @@
 # ROSNEFT
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
-37.29.60.68/30
-37.29.60.56/30
 37.29.60.60/30
+37.29.60.56/30
+37.29.60.68/30
 
 # Networks announced by AS12389
 # AS-Name: ROS-POTREB-NADZOR
 # Control Rospotrebnadzor on Perm region, Russia
-# 5, Sivkova str, Chusovoy
+# 16,October str., Ocher
 # 1, Kirova str., Solikamsk
-# 78, October str., Vereshchagino
-# 8, Yakovkina, Kudimkar
-# 84, Charles Marx str., Nytva
-# 4, Dzerginskiy str., Krasnovishersk
 # Control Rospotrebnadzor on Perm region, Perm, Russia
-# 50, Kuibysheva str., Perm, Russia,
-# 40A, Krasnoarmejskaja str., Kueda
-# 4, Sysolskaja str., Perm
+# 4A, Bolnichnaya str., Perm, Russia,
+# 1/1, Mira str., Tschaikovsky, Perm region,
+# 66g, Mira str., Perm
+# 81, Krasavinskaja str., Perm
 # 59, Telmana str., CHernushka
 # 42, Lenina str., Gubaha
-# 16,October str., Ocher
-# 1/1, Mira str., Tschaikovsky, Perm region,
-# 81, Krasavinskaja str., Perm
-# 66g, Mira str., Perm
-# 13, Severniy per. str., Berezniki
-# 45B, Krasnogvardejtsev str., Kungur
-# 81, Razin str., Osa
-# Pionernaya basa str., Dobryanka
+# 4, Sysolskaja str., Perm
 # 88, Gorkiy str., Chastye
-# 4A, Bolnichnaya str., Perm, Russia,
-90.150.189.184/29
+# Pionernaya basa str., Dobryanka
+# 4, Dzerginskiy str., Krasnovishersk
+# 13, Severniy per. str., Berezniki
+# 5, Sivkova str, Chusovoy
+# 84, Charles Marx str., Nytva
+# 45B, Krasnogvardejtsev str., Kungur
+# 78, October str., Vereshchagino
+# 81, Razin str., Osa
+# 8, Yakovkina, Kudimkar
+# 40A, Krasnoarmejskaja str., Kueda
+# 50, Kuibysheva str., Perm, Russia,
+90.150.189.224/29
 90.150.189.232/29
-212.120.184.56/29
-90.150.189.248/29
-90.150.189.200/29
-90.150.189.128/29
-83.219.6.72/29
-212.120.191.120/29
-90.150.189.192/29
+212.120.191.248/29
+90.150.189.216/29
+212.120.189.224/29
+212.120.190.240/29
 90.150.189.160/29
 90.150.189.152/29
-90.150.189.224/29
-90.150.189.216/29
-212.120.190.240/29
-212.120.189.224/29
-83.219.25.112/29
-90.150.189.144/29
-90.150.189.168/29
-90.150.189.176/29
-90.150.189.136/29
+90.150.189.192/29
 90.150.189.208/29
-212.120.191.248/29
+90.150.189.136/29
+90.150.189.128/29
+90.150.189.144/29
+90.150.189.184/29
+90.150.189.200/29
+90.150.189.168/29
+212.120.184.56/29
+90.150.189.176/29
+90.150.189.248/29
+212.120.191.120/29
+83.219.6.72/29
+83.219.25.112/29
 
 # Networks announced by AS31338
 # AS-Name: ROSATOM
@@ -8005,14 +7918,14 @@
 
 # Networks announced by AS2854
 # AS-Name: ROSATOMSTROY-NET
-# (0011530) , ROSATOMSTROY , Moscow
 # (11530) RosAtomStroy, Moscow
-212.176.25.192/28
+# (0011530) , ROSATOMSTROY , Moscow
 194.84.95.0/27
+212.176.25.192/28
 
 # Networks announced by AS8359
 # AS-Name: ROSCOSMOS
-# Goscorporation ROSCOSMOS
+# Goscorporation «ROSCOSMOS»
 # State Space Corporation ROSCOSMOS
 212.30.142.0/27
 89.175.24.224/27
@@ -8027,13 +7940,13 @@
 
 # Networks announced by AS20632
 # AS-Name: ROSGVARDIA-LAN
-# 6212128265 Rosgvardia
-# St.Petersburg
-# JSC PeterStar
 # 6212128296 rosgv
 # Vologda
-84.204.211.36/30
+# JSC PeterStar
+# 6212128265 Rosgvardia
+# St.Petersburg
 84.204.72.252/30
+84.204.211.36/30
 
 # Networks announced by AS24739
 # AS-Name: ROSKOMNADZOR-NET
@@ -8140,16 +8053,16 @@
 # Territorial Administration of Federal
 # Service of Control in Sphere of Defence
 # Protection of Consumer's Right and Welfare of Person RO
-# Rostov, 7th line str., 67
+# Rostov, 18th line str., 17
 # Rostov, Rostovskaia oblast, 344019
 # Rostov, 18th line str., 7a
-# Rostov, 18th line str., 17
 # Rostov, Serjantova str., 3a
 # Rostov, Rostovskaia oblast, 344029
-87.117.20.96/27
-87.117.20.64/27
+# Rostov, 7th line str., 67
 87.117.20.128/28
+87.117.20.64/27
 87.117.23.128/28
+87.117.20.96/27
 
 # Networks announced by AS21479
 # AS-Name: ROSPOTREBNADZOR-SALSK-NET
@@ -8176,9 +8089,9 @@
 # Protection of Consumer's Right and Welfare of Person RO
 # Taganrog, Bolshoi prospect str., 16a
 # Taganrog, Rostovskaia oblast, 347930
+93.178.104.68/30
 87.117.18.144/29
 93.178.104.64/30
-93.178.104.68/30
 
 # Networks announced by AS21479
 # AS-Name: ROSPOTREBNADZOR-VESHKI-NET
@@ -8198,21 +8111,21 @@
 # Volgodonsk, Rostovskaia oblast, 347360
 87.117.21.0/29
 
-# Networks announced by AS12389,AS30733
+# Networks announced by AS30733,AS12389
 # AS-Name: ROSREESTR
+# Federalnaya sluzhba gosudarstvennoj registracyi
 # Rosreestr
 # Moscow, Russia
 # Poklonnaya str,h.13
-# Federalnaya sluzhba gosudarstvennoj registracyi
-213.24.45.96/27
 82.198.191.248/29
+213.24.45.96/27
 
 # Networks announced by AS6854
 # AS-Name: ROSREESTR-NET
 # Rosreestr
-83.229.135.0/24
 83.229.201.0/24
 83.229.129.128/25
+83.229.135.0/24
 
 # Networks announced by AS61011
 # AS-Name: ROSSETI-SK
@@ -8313,11 +8226,11 @@
 # FSUE "Morsviazsputnik"
 # Sushevskaya str. 17 bld. 7
 # 127055, Moscow
-195.161.141.16/29
 195.161.16.240/29
-195.161.121.8/29
 195.161.141.8/29
 195.161.141.0/29
+195.161.121.8/29
+195.161.141.16/29
 
 # Networks announced by AS12389
 # AS-Name: RTCOMM-PEREKRESTOK
@@ -8330,8 +8243,8 @@
 # Networks announced by AS12389
 # AS-Name: RTCOMM-RFCCFO
 # FGUP Radio Frequency Center
-213.24.143.0/24
 213.24.34.0/24
+213.24.143.0/24
 213.24.75.0/24
 
 # Networks announced by AS8342
@@ -8390,34 +8303,34 @@
 # Networks announced by AS12389
 # AS-Name: RU-AO-NII-TM
 # company The Research Institute of Fine Mechanics
-78.37.68.168/29
 78.37.118.64/28
+78.37.68.168/29
+
+# Networks announced by AS29182
+# AS-Name: RU-AOIOT
+# Org: JSC IOT
+37.230.114.0/23
+91.228.224.0/23
+185.60.134.0/23
+188.120.224.0/21
+188.120.240.0/21
+188.120.253.0/24
+188.120.254.0/23
+149.154.64.0/23
+188.120.250.0/23
+149.154.66.0/23
+188.120.248.0/21
+149.154.68.0/23
+149.154.70.0/23
+37.230.112.0/23
+37.230.118.0/23
+37.230.116.0/23
 
 # Networks announced by AS197911,AS29182
 # AS-Name: RU-AOIOT
 # Org: JSC IOT
 2a01:230::/48
 2a01:230:3::/48
-
-# Networks announced by AS29182
-# AS-Name: RU-AOIOT
-# Org: JSC IOT
-188.120.253.0/24
-149.154.64.0/23
-149.154.66.0/23
-188.120.254.0/23
-149.154.68.0/23
-149.154.70.0/23
-37.230.112.0/23
-37.230.114.0/23
-37.230.116.0/23
-37.230.118.0/23
-188.120.248.0/21
-188.120.250.0/23
-188.120.240.0/21
-188.120.224.0/21
-91.228.224.0/23
-185.60.134.0/23
 
 # Networks announced by AS12389
 # AS-Name: RU-ARBITR-NOVG
@@ -8437,8 +8350,8 @@
 # Networks announced by AS15454
 # AS-Name: RU-ARBUZ-CBR-NET
 # Magadan Department of the Bank of Russia
-89.28.253.144/28
 89.28.253.164/30
+89.28.253.144/28
 
 # Networks announced by AS15454
 # AS-Name: RU-ARBUZ-CENTRINFORM-NET
@@ -8528,12 +8441,12 @@
 # Networks announced by AS207104
 # AS-Name: RU-BIZONE-20160815
 # Org: "BiZone" LLC
-185.163.156.0/22
+2a0a:400::/32
 
 # Networks announced by AS207104
 # AS-Name: RU-BIZONE-20160815
 # Org: "BiZone" LLC
-2a0a:400::/32
+185.163.156.0/22
 
 # Networks announced by AS207104
 # AS-Name: RU-BIZONE-20170221
@@ -8669,8 +8582,8 @@
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20040513
 # Org: EdgeCenter LLC
-83.229.14.0/24
 83.229.25.0/24
+83.229.14.0/24
 
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20071010
@@ -8680,37 +8593,37 @@
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20071017
 # Org: EdgeCenter LLC
-92.223.106.0/24
-92.223.103.0/24
-92.223.91.0/24
-92.223.80.0/24
+92.223.72.0/24
+92.223.43.0/24
+92.223.41.0/24
+92.223.8.0/23
+92.223.67.0/24
+92.223.49.0/24
+92.223.14.0/24
 92.223.87.0/24
 92.223.4.0/23
 92.223.6.0/24
-92.223.14.0/24
-92.223.8.0/23
-92.223.38.0/24
-92.223.32.0/22
-92.223.36.0/24
-92.223.43.0/24
-92.223.41.0/24
-92.223.49.0/24
 92.223.60.0/24
-92.223.67.0/24
-92.223.64.0/23
-92.223.72.0/24
 92.223.122.0/23
 92.223.114.0/23
+92.223.64.0/23
+92.223.106.0/24
 92.223.108.0/22
+92.223.103.0/24
+92.223.91.0/24
+92.223.32.0/22
+92.223.36.0/24
+92.223.38.0/24
+92.223.80.0/24
 
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20080208
 # Org: EdgeCenter LLC
-92.38.136.0/22
-92.38.156.0/24
-92.38.128.0/22
 92.38.188.0/22
+92.38.128.0/22
+92.38.156.0/24
 92.38.152.0/23
+92.38.136.0/22
 
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20081231
@@ -8730,9 +8643,9 @@
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20110713
 # Org: EdgeCenter LLC
-146.185.218.0/24
-146.185.215.0/24
 146.185.196.0/22
+146.185.215.0/24
+146.185.218.0/24
 
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20111214
@@ -8748,33 +8661,33 @@
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20120425
 # Org: EdgeCenter LLC
-5.8.42.0/23
 5.8.69.0/24
+5.8.42.0/23
 
-# Networks announced by AS210756,AS201589
+# Networks announced by AS201589,AS210756
 # AS-Name: RU-EDGECENTER-20120626
 # Org: EdgeCenter LLC
-5.101.218.0/24
 5.101.68.0/22
+5.101.218.0/24
 
 # Networks announced by AS210756
 # AS-Name: RU-EDGECENTER-20120803
 # Org: EdgeCenter LLC
-91.243.86.0/24
 91.243.82.0/23
 91.243.84.0/24
+91.243.86.0/24
 91.243.80.0/24
 
 # Networks announced by AS210756,AS202422
 # AS-Name: RU-EDGECENTER-20120809
 # Org: EdgeCenter LLC
-5.188.121.0/24
+5.188.212.0/24
 5.189.223.0/24
 5.188.224.0/24
 5.188.229.0/24
-5.188.212.0/24
 5.188.170.0/23
 5.188.149.0/23
+5.188.121.0/24
 5.188.35.0/24
 5.188.37.0/24
 5.188.38.0/23
@@ -8811,12 +8724,12 @@
 # Networks announced by AS201643
 # AS-Name: RU-EGOV66-20140827
 # Org: GBU SO Operator of Electronic Government
-2a03:2b60::/32
+185.68.100.0/22
 
 # Networks announced by AS201643
 # AS-Name: RU-EGOV66-20140827
 # Org: GBU SO Operator of Electronic Government
-185.68.100.0/22
+2a03:2b60::/32
 
 # Networks announced by AS12389
 # AS-Name: RU-EMERCOM-MURM-51
@@ -8896,12 +8809,17 @@
 # Org: JSC IOT
 176.123.168.0/21
 
-# Networks announced by AS29182,AS12690
+# Networks announced by AS29182
+# AS-Name: RU-JSCIOT-19971014
+# Org: JSC IOT
+157.22.184.0/21
+
+# Networks announced by AS12690,AS29182
 # AS-Name: RU-JSCIOT-19990913
 # Org: JSC IOT
+212.57.115.0/23
 212.57.118.0/24
 212.57.124.0/22
-212.57.115.0/23
 212.57.122.0/24
 
 # Networks announced by AS29182
@@ -8916,19 +8834,19 @@
 # Org: JSC IOT
 217.28.220.0/22
 
-# Networks announced by as29182,AS29182
+# Networks announced by AS29182,as29182
 # AS-Name: RU-JSCIOT-20040407
 # Org: JSC IOT
-83.136.235.0/24
 83.136.232.0/23
+83.136.235.0/24
 
 # Networks announced by AS29182
 # AS-Name: RU-JSCIOT-20050726
 # Org: JSC IOT
-86.110.212.0/24
-86.110.220.0/24
 86.110.194.0/24
 86.110.208.0/23
+86.110.212.0/24
+86.110.220.0/24
 86.110.215.0/24
 
 # Networks announced by AS29182
@@ -8964,8 +8882,8 @@
 109.172.108.0/22
 109.172.112.0/22
 109.172.116.0/23
-109.172.100.0/23
 109.172.30.0/23
+109.172.100.0/23
 
 # Networks announced by AS29182
 # AS-Name: RU-JSCIOT-20100504
@@ -9073,14 +8991,14 @@
 # Medical Information-Anatolic Centr, gov.
 95.54.193.224/28
 
+# AS-Name: RU-MINZDRAV-20190710
+# Org: FSBI CENTRAL RESEARCH INSTITUTE OF ORGANIZATION AND INFORMATIZATION OF HEALTH OF THE MINISTRY OF HEALTH
+2a0e:3740::/29
+
 # Networks announced by AS208534
 # AS-Name: RU-MINZDRAV-20190710
 # Org: FSBI CENTRAL RESEARCH INSTITUTE OF ORGANIZATION AND INFORMATIZATION OF HEALTH OF THE MINISTRY OF HEALTH
 45.95.136.0/22
-
-# AS-Name: RU-MINZDRAV-20190710
-# Org: FSBI CENTRAL RESEARCH INSTITUTE OF ORGANIZATION AND INFORMATIZATION OF HEALTH OF THE MINISTRY OF HEALTH
-2a0e:3740::/29
 
 # Networks announced by AS39821
 # AS-Name: RU-MKI
@@ -9268,23 +9186,22 @@
 # THE FEDERAL SERVICE FOR STATE REGISTRATION, CADASTRE AND CARTOGRAPHY
 92.101.252.0/28
 
-# Networks announced by AS48347,AS214822,AS9002
+# Networks announced by AS48347,AS214822
 # AS-Name: RU-RUVDS
 # Org: MT FINANCE LLC
-176.119.158.0/23
-91.245.227.0/24
-176.113.80.0/24
-193.124.55.0/24
-176.113.81.0/24
-176.113.82.0/24
-176.113.83.0/24
 176.119.156.0/23
+91.245.227.0/24
+176.113.82.0/24
+176.113.81.0/24
+176.113.83.0/24
+176.113.80.0/24
+176.119.158.0/23
 
 # Networks announced by AS48347
 # AS-Name: RU-RUVDS-20180405
 # Org: MT FINANCE LLC
-109.196.164.0/25
 109.196.164.128/25
+109.196.164.0/25
 
 # Networks announced by AS48347
 # AS-Name: RU-RUVDS-20180810
@@ -9300,8 +9217,8 @@
 # AS-Name: RU-RUVDS-20190301
 # RU-RUVDS-20190301
 88.151.196.0/24
-213.226.114.0/24
 213.226.112.0/24
+213.226.114.0/24
 
 # Networks announced by AS214822
 # AS-Name: RU-RUVDS-20190329
@@ -9431,15 +9348,6 @@
 # Networks announced by AS48347
 # AS-Name: RU-RUVDS-20211130
 # Org: MT FINANCE LLC
-195.43.142.255/32
-193.104.57.0/25
-193.104.57.128/26
-193.104.57.192/27
-193.104.57.224/28
-193.104.57.240/29
-193.104.57.248/30
-193.104.57.252/31
-193.104.57.254/32
 193.104.57.255/32
 195.43.142.0/25
 195.43.142.128/26
@@ -9449,6 +9357,15 @@
 195.43.142.248/30
 195.43.142.252/31
 195.43.142.254/32
+193.104.57.0/25
+193.104.57.128/26
+193.104.57.192/27
+193.104.57.224/28
+193.104.57.240/29
+193.104.57.248/30
+193.104.57.252/31
+193.104.57.254/32
+195.43.142.255/32
 
 # Networks announced by AS214822,AS48347
 # AS-Name: RU-RUVDS-20211209
@@ -9460,6 +9377,17 @@
 # AS-Name: RU-RUVDS-20251008
 # Org: MT FINANCE LLC
 170.168.15.0/24
+
+# Networks announced by AS214822
+# AS-Name: RU-RUVDS-20260428
+# Org: MT FINANCE LLC
+170.168.1.0/24
+
+# Networks announced by AS214822
+# AS-Name: RU-RUVDS-20260525
+# Org: MT FINANCE LLC
+45.153.230.0/24
+62.233.35.0/24
 
 # Networks announced by AS29456
 # AS-Name: RU-SECUREMVD-NET
@@ -9518,13 +9446,6 @@
 # Prechistenka, 20, KL-3243961
 # Main Administration for Service to the Diplomatic Corps, descr:
 195.16.55.224/27
-
-# Networks announced by AS3216
-# AS-Name: RU-SOVINTEL-MSK-GaZPRoMNeFT-NET
-# 112034 Russia Moscoww, ZC-4465078
-# Profsouznaya, 125A, KL-1279009
-# JSC Gazprom-nef, http://www.gazprom-neft.ru
-82.142.163.128/28
 
 # Networks announced by AS3216
 # AS-Name: RU-SOVINTEL-MSK-Giprodornii-NET
@@ -9598,13 +9519,6 @@
 81.211.32.16/28
 
 # Networks announced by AS3216
-# AS-Name: RU-SOVINTEL-MSK-ORION-INTERNATIONAL-EVRO-NET
-# 117574 Russia Moscow, ZC- 10487218
-# Profsouznaya, 129A, KL- 4374603
-# Orion International Euro LLC, http://www.orionworld.ru
-213.33.157.128/29
-
-# Networks announced by AS3216
 # AS-Name: RU-SOVINTEL-MSK-RK-CyFRa-NET
 # 121151 Russia Moscow, ZC- 13218702
 # Mozhaisky Val, 8b, KL- 4966220
@@ -9648,13 +9562,13 @@
 
 # Networks announced by AS3216
 # AS-Name: RU-SOVINTEL-MSK-Rosspirtprom-NET
-# 121170 Russia Moscow, KL-1786562
-# Kutuzovskii pr-t, 34 stroenie 21A
-# Rosspirtprom OJSC, http://www.rosspirtprom.ru
 # 121170 Russia Moscow, ZC-6733678
 # Kutuzovskii pr-t, 34.21A, KL-1786562
-213.33.183.144/28
+# Rosspirtprom OJSC, http://www.rosspirtprom.ru
+# 121170 Russia Moscow, KL-1786562
+# Kutuzovskii pr-t, 34 stroenie 21A
 195.16.34.232/29
+213.33.183.144/28
 
 # Networks announced by AS8350
 # AS-Name: RU-SOVINTEL-MSK-Singapore-Embassy-NET
@@ -9687,13 +9601,13 @@
 
 # Networks announced by AS3216
 # AS-Name: RU-SOVINTEL-MSK-USA-Embassy-NET
-# 121099 Russia Moscow, ZC- 12647438
-# Bolshoy Deviatinsky Per, 8, KL- 4824435
-# U.S. Embassy, http://www.ru.usembassy.gov/
 # 121099 Russia Moscow, ZC- 12646342
 # Bolshoy Deviatinsky Per, 8, KL- 4824432
-195.16.32.136/29
+# U.S. Embassy, http://www.ru.usembassy.gov/
+# 121099 Russia Moscow, ZC- 12647438
+# Bolshoy Deviatinsky Per, 8, KL- 4824435
 82.142.139.224/27
+195.16.32.136/29
 
 # Networks announced by AS3216
 # AS-Name: RU-SOVINTEL-MSK-VNIIAES-NET
@@ -9763,36 +9677,36 @@
 # Networks announced by AS60388
 # AS-Name: RU-SVYAZTRANSNEFT
 # LLC "Transneft Telecom"
+212.73.116.0/22
+212.73.102.0/24
+212.73.112.0/24
+212.73.121.0/24
+212.73.122.0/23
+212.73.109.0/24
+212.73.105.0/24
+212.73.113.0/23
+212.73.106.0/24
 212.73.120.0/24
+212.73.110.0/24
+212.73.107.0/23
+212.73.124.0/22
+212.73.104.0/24
+212.73.101.0/24
 212.73.115.0/24
 212.73.111.0/24
-212.73.110.0/24
 212.73.96.0/23
-212.73.101.0/24
-212.73.102.0/24
-212.73.109.0/24
-212.73.104.0/24
-212.73.106.0/24
-212.73.107.0/23
-212.73.113.0/23
-212.73.105.0/24
-212.73.121.0/24
-212.73.112.0/24
-212.73.122.0/23
-212.73.116.0/22
 212.73.98.0/24
-212.73.100.0/24
 212.73.99.0/24
-212.73.124.0/22
+212.73.100.0/24
 
 # Networks announced by AS60388
 # AS-Name: RU-SVYAZTRANSNEFT
+# IPV6 for AS12879
 # IPV6 for AS43859
 # IPv6_num_AS44113
-# IPV6 for AS12879
+2a01:70c0:2::/48
 2a01:70c0:1::/48
 2a01:70c0::/48
-2a01:70c0:2::/48
 
 # Networks announced by AS8846
 # AS-Name: RU-TCO-GTRF
@@ -9856,7 +9770,7 @@
 
 # Networks announced by AS12389
 # AS-Name: RU-ZAGS-VOLOGDA
-# FGU -?ZKP-? for Vologda region, Government Organization
+# FGU â-?ZKPâ-? for Vologda region, Government Organization
 95.53.250.0/29
 
 # Networks announced by AS34137
@@ -10051,12 +9965,6 @@
 # GU OPF RF of Sakhalin region (Pensionniy Fond)
 195.72.248.96/27
 
-# Networks announced by AS42610
-# AS-Name: SAKS-ncnet
-# "SAKS-TOYS" , Profsouznaya st.
-# Moscow, Rassia
-95.84.191.0/29
-
 # Networks announced by AS8711
 # AS-Name: SALUT1
 # FGUPTI Salut
@@ -10079,8 +9987,8 @@
 # Managements of Tax inspection
 # on the Saratov Area, Russia,
 # 410028, Saratov, Rabochaya 24.
-217.107.5.128/28
 81.176.139.128/28
+217.107.5.128/28
 
 # Networks announced by AS51051
 # AS-Name: SARATOVGOV-NET
@@ -10236,12 +10144,12 @@
 
 # Networks announced by AS3253
 # AS-Name: SKSKAZNA-NET
-# SKSKAZNA
-# Ekaterinburg, Russia
 # OOO Strahovaya Kompaniya Severnaya Kazna
+# Ekaterinburg, Russia
+# SKSKAZNA
+195.58.11.232/30
 213.140.120.160/29
 213.140.120.168/32
-195.58.11.232/30
 
 # Networks announced by AS3253
 # AS-Name: SKSKAZNA-NET-10
@@ -10322,6 +10230,11 @@
 # AS-Name: SMOLTELECOM-ROSTECH-NET
 # Smoltelecom customer: ROSTECH-WEST (agrm 26091102)
 92.241.98.112/29
+
+# Networks announced by AS214822
+# AS-Name: SMR-RU-RUVDS
+# Org: MT FINANCE LLC
+213.108.7.0/24
 
 # Networks announced by AS8711
 # AS-Name: SNIIM
@@ -10412,7 +10325,6 @@
 
 # Networks announced by AS57580
 # AS-Name: SRCI-MID-RF
-# Org: Federal State Budgetary Institution "Research Center for Information of the Ministry of Foreign Affairs of the Russian Federation"
 # Research Centre for Computer Science at the Russian Foreign Ministry
 # Moscow, Russia
 194.85.30.128/25
@@ -10464,11 +10376,11 @@
 # Networks announced by AS20632
 # AS-Name: STF-KAZNA-PTZ-LAN
 # StF-KAZNA-PTZ
-# Petrozavodsk
-# JSC PeterStar
 # St.Petersburg
-109.124.82.52/30
+# JSC PeterStar
+# Petrozavodsk
 46.47.229.216/30
+109.124.82.52/30
 
 # Networks announced by AS31213
 # AS-Name: STF-KAZNA-SMOLENSK-LAN
@@ -10515,8 +10427,8 @@
 # Networks announced by AS12389
 # AS-Name: STN-terminal
 # OOO "Samaratransneft-Terminal"
-62.213.11.80/29
 88.200.208.40/29
+62.213.11.80/29
 
 # Networks announced by AS31213
 # AS-Name: SUD-DOLMATOVA-2-LAN
@@ -10640,12 +10552,12 @@
 
 # Networks announced by AS12389
 # AS-Name: Svjaztransneft_DF
-# Ticket 10-10919-1
 # Ticket 10-09201-2
 # Ticket 10-08406-2
-95.167.142.72/30
+# Ticket 10-10919-1
 95.167.98.148/30
 95.167.98.28/30
+95.167.142.72/30
 
 # Networks announced by AS12389
 # AS-Name: Svyaztransneft_DF
@@ -10657,7 +10569,7 @@
 # Ticket 10-07402
 95.167.69.216/29
 
-# Networks announced by AS25159
+# Networks announced by AS31133
 # AS-Name: T4063861_ORG-FSUE11-RIPE
 178.177.28.0/25
 
@@ -10775,9 +10687,9 @@
 # object-VARSHAVSKOE125, client-FGUP "NII "Argon"
 # object-BUTLEROVA7, client-FGUP "NII "Argon"
 87.249.16.32/28
+217.147.23.112/28
 87.249.7.120/29
 87.249.18.60/30
-217.147.23.112/28
 
 # Networks announced by AS31430
 # AS-Name: TEL-NET-5927
@@ -10802,8 +10714,8 @@
 # Networks announced by AS31430
 # AS-Name: TEL-NET-9937
 # object-KASHIRSKOE24STR16, client-FGU "VNIIIMT" Roszdravnadzora
-109.68.185.156/30
 87.249.31.12/30
+109.68.185.156/30
 
 # Networks announced by AS12389
 # AS-Name: TELECOMSOYUZ-NET
@@ -10815,8 +10727,8 @@
 # test Rostelecom Vybory
 # Pskov
 # JSC PeterStar
-46.47.246.232/29
 46.47.230.88/29
+46.47.246.232/29
 
 # Networks announced by AS8359
 # AS-Name: TNTrade-NET
@@ -10910,9 +10822,9 @@
 # AS-Name: Ten_OTRYAD-MCHS
 # 10 Otryad MCHS Perm region network, Perm, Russia
 # 52, Belinskogo str., Perm,
-83.219.5.248/29
 83.219.23.48/29
 83.219.25.0/29
+83.219.5.248/29
 
 # Networks announced by AS2854
 # AS-Name: Terminal-Primary-MID-NET
@@ -10945,10 +10857,10 @@
 
 # Networks announced by AS12389
 # AS-Name: TsSSI_FSO_Rossii_v_Chelyabinskoy_oblasti
-# Ticket 10-39613-1
 # Ticket 09-41847-1
-95.167.163.44/30
+# Ticket 10-39613-1
 95.167.44.104/30
+95.167.163.44/30
 
 # Networks announced by AS8342
 # AS-Name: UBPFR-NET
@@ -11074,10 +10986,8 @@
 # AS-Name: UFSB
 # JSC Rostelecom Client (city Rostov)
 # JSC Rostelecom Client (city Rostov-na-Donu)
-# Ticket 09-08632-1
 94.25.57.176/29
 94.25.57.224/28
-79.133.74.168/30
 
 # Networks announced by AS31213
 # AS-Name: UFSB-LAN
@@ -11090,11 +11000,6 @@
 # AS-Name: UFSB-Mordovia
 # Ticket 10-17527-1
 95.167.70.136/29
-
-# Networks announced by AS2854
-# AS-Name: UFSB-NET
-# (99999960) UFSB, Ekaterinburg
-195.151.25.48/29
 
 # Networks announced by AS12389
 # AS-Name: UFSB-PSK-NET
@@ -11165,18 +11070,18 @@
 
 # Networks announced by AS31213,AS20632
 # AS-Name: UFSIN-LAN
-# Kotlas,Chirkova,35
+# Kotlas,Chernyahovskogo,2
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
-# UFSIN
 # Velsk,Koneva,1
 # St.Petersburg
 # JSC PeterStar
-# Kotlas,Chernyahovskogo,2
+# Kotlas,Chirkova,35
+# UFSIN
+37.29.49.48/30
+84.204.99.88/30
 37.29.49.52/30
 37.29.50.8/30
-84.204.99.88/30
-37.29.49.48/30
 
 # Networks announced by AS20632
 # AS-Name: UFSIN-ONEGA-LAN
@@ -11318,12 +11223,12 @@
 # Networks announced by AS8342
 # AS-Name: UMNS-BASHKORTOSTAN
 # Ministry of Taxation, subsidiary of Bashkortostan region
-# 55, pr.Salavat Ulaev
-# Ufa, Republic Bashkortostan
 # 1b, Vladivostokskaya st.,
-217.107.5.120/29
-217.107.5.64/29
+# Ufa, Republic Bashkortostan
+# 55, pr.Salavat Ulaev
 217.107.5.0/29
+217.107.5.64/29
+217.107.5.120/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-CHECHEN
@@ -11336,8 +11241,8 @@
 # AS-Name: UMNS-CHERKESSK
 # Ministry of Taxation, subsidiary of Cherkessk region
 # Cherkessk, Krasnoarmeiskaya st., 70
-217.106.203.88/29
 217.106.203.240/29
+217.106.203.88/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-CHUKOTKA
@@ -11376,7 +11281,7 @@
 # AS-Name: UMNS-KAZAN
 # Ministry of Taxation of Tatarstan Republic
 # 420094, Kazan, 3, Bondarenko's str
-# 13, Teatralnaya str.
+# 13à, Teatralnaya str.
 # 420111, Kazan, Russia
 213.59.59.128/29
 213.59.59.168/29
@@ -11393,8 +11298,8 @@
 # Ministry of Taxation, subsidiary of Khabarovsk region
 # Dzerzhinskogostr., 41
 # 680000, Khabarovsk, Russia
-217.106.184.0/29
 217.106.184.232/29
+217.106.184.0/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-LIPETSK
@@ -11404,19 +11309,19 @@
 
 # Networks announced by AS8342
 # AS-Name: UMNS-MI-MNS4
-# Ministry of taxation, Interregional inspectorate 4
+# Ministry of taxation, Interregional inspectorate ¹4
 # 107139 Moscow, Orlikov 3, bld. 1
 195.161.42.112/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-MORDOVIA
 # Ministry of Taxation, subsidiary of Morodovia region
-# 3/1, Moskovskaya st.,
-# Saransk, 430000
 # 3/1, Moskovskaya st.
 # 430000 Saransk, Russia
-217.107.5.8/29
+# 3/1, Moskovskaya st.,
+# Saransk, 430000
 217.107.5.96/29
+217.107.5.8/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-MOSKOW
@@ -11430,8 +11335,8 @@
 # Ministry of Taxation, subsidiary of Moskow region
 # 5, Syvashskaya str.
 # 113149, Moskow, Russia
-195.161.160.216/29
 195.161.127.104/29
+195.161.160.216/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-NALCHIK
@@ -11465,14 +11370,14 @@
 
 # Networks announced by AS8342
 # AS-Name: UMNS-ORENBURG
+# Ministry of Taxation of Orenburg region
+# 11a, 60-let Okòyabrya str.
+# 460021, Orenburg, Russia
 # Ministry of Taxation, subsidiary of Orenburg region
 # 11a, 60 let Oktyabrya st.,
 # Orenburg, 460021
-# Ministry of Taxation of Orenburg region
-# 11a, 60-let Okyabrya str.
-# 460021, Orenburg, Russia
-217.107.5.16/29
 217.107.5.112/29
+217.107.5.16/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-PERM
@@ -11487,8 +11392,8 @@
 # Networks announced by AS8342
 # AS-Name: UMNS-PSKOV
 # Ministry of Taxation, subsidiary of Pskov region
-213.59.91.128/27
 213.59.91.176/28
+213.59.91.128/27
 
 # Networks announced by AS21479
 # AS-Name: UMNS-ROSTOV-REGION
@@ -11500,11 +11405,11 @@
 # Networks announced by AS8342
 # AS-Name: UMNS-SAMARA
 # Ministry of Taxation, subsidiary of Samara region
-# 9, Tsiolkovskogo st.
-# Samara, 443002
 # 9, Tsiolkovskogo st.,
-217.107.5.88/29
+# Samara, 443002
+# 9, Tsiolkovskogo st.
 217.107.5.40/29
+217.107.5.88/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-SARATOV
@@ -11530,11 +11435,11 @@
 # Networks announced by AS8342
 # AS-Name: UMNS-TSK
 # Ministry of Taxation of Tomsk region
+# 55, Frunze pr., Tomsk, Russia
 # 55, Frunze str.
 # 634061, Tomsk, Russia
-# 55, Frunze pr., Tomsk, Russia
-217.106.147.8/29
 217.106.147.0/29
+217.106.147.8/29
 
 # Networks announced by AS8342
 # AS-Name: UMNS-TUMEN
@@ -11660,12 +11565,12 @@
 
 # Networks announced by AS12389
 # AS-Name: URALSVIAZINFORM-MRFSS-PERM
+# Connection to equipment sot filial, Perm, Russia
 # Perm department Interregional filial sot connections, Perm, Russia
 # service platform
-# Connection to equipment sot filial, Perm, Russia
+83.219.17.8/29
 212.120.166.112/28
 212.120.163.176/28
-83.219.17.8/29
 
 # Networks announced by AS12389
 # AS-Name: URALSVIAZINFORM-PERM-NET
@@ -11676,9 +11581,10 @@
 
 # Networks announced by AS12389
 # AS-Name: USI_GPRS_USERS1
+# Org: MFIST
 # GPRS service for MRFSS
-88.205.192.0/20
 89.204.112.0/20
+88.205.192.0/20
 
 # Networks announced by AS12389
 # AS-Name: USI_MRFSS_PERM
@@ -11781,11 +11687,6 @@
 92.50.226.200/30
 
 # Networks announced by AS12389
-# AS-Name: Upravlenie_FSB_po_Primorskomu_kraju
-# Ticket 10-19136-2
-95.167.157.8/30
-
-# Networks announced by AS12389
 # AS-Name: Upravlenie_FSSP_po_Orenburgskoj_oblasti
 # Ticket 10-09943-2
 95.167.79.60/30
@@ -11830,6 +11731,7 @@
 # AS-Name: VDO-RU-RUVDS
 # Org: MT FINANCE LLC
 193.124.9.0/24
+193.238.134.0/24
 192.124.171.0/24
 
 # Networks announced by AS15672
@@ -11880,8 +11782,8 @@
 # VNII-Karp-LAN
 # St.Petersburg
 # JSC PeterStar
-84.204.7.192/29
 84.204.6.124/30
+84.204.7.192/29
 
 # Networks announced by AS8359
 # AS-Name: VNIIAES
@@ -11907,8 +11809,8 @@
 # Networks announced by AS8359
 # AS-Name: VNIIFTRI
 # All-Russian Research Institute of Physical, Technical and Radio Engineering Measurements (VNIIFTRI)
-212.248.75.96/29
 195.210.169.56/29
+212.248.75.96/29
 
 # Networks announced by AS8492
 # AS-Name: VNIIG-LAN
@@ -12057,13 +11959,13 @@
 # Networks announced by AS12389
 # AS-Name: VOENNO-STRAKHOVAYA-KOMP-NET
 # Military Insurance company network, Perm region, Russia
-# 12a, Mira str., Chusovoy,
 # 14, Myra str., Lysva, Perm region,
+# 12a, Mira str., Chusovoy,
 # 1, Metallistov str., Lys'va
-89.20.122.120/29
 89.20.101.176/29
-89.20.122.112/29
 83.219.20.32/29
+89.20.122.120/29
+89.20.122.112/29
 
 # Networks announced by AS12389
 # AS-Name: VOENTELECOM
@@ -12072,14 +11974,14 @@
 
 # Networks announced by AS31213
 # AS-Name: VOLOGODSKAYA-TAMOZHNYA-LAN
-# VOL,Petrozavodskaya,3
+# VOL,Vytegra,Sovetskyi,27
 # North-West Region
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
-# VOL,Vytegra,Sovetskyi,27
 # CHER,Mekhanizatorov,3a
-78.25.97.72/30
+# VOL,Petrozavodskaya,3
 78.25.97.76/30
 78.25.98.16/30
+78.25.97.72/30
 
 # Networks announced by AS6854
 # AS-Name: VOSKHOD-NET
@@ -12173,8 +12075,8 @@
 # AS-Name: VRO-FSS
 # GU VRO FSS RF
 # Voronezh, Russia
-88.83.194.128/25
 80.82.42.192/30
+88.83.194.128/25
 80.82.42.104/30
 
 # Networks announced by AS21017
@@ -12203,17 +12105,17 @@
 # Vyborgskaya Tamozhnya
 # St.Petersburg
 # JSC PeterStar
+# Vyborg, Privokzalnaya pl. d.1
 # VYBORGSKAYA-TAMOZHNYA-LAN
 # Vyborgskaya tamozhnya
-# Vyborg, Privokzalnaya pl. d.1
 109.124.65.48/29
-84.204.149.208/29
-109.124.117.208/29
-81.3.158.8/29
 46.47.227.240/30
+84.204.149.208/29
+109.124.76.56/29
+109.124.117.208/29
 93.153.224.200/29
 93.153.237.208/29
-109.124.76.56/29
+81.3.158.8/29
 
 # AS-Name: Vazhnie_Istorii_FSB_agent
 95.161.81.0/24
@@ -12250,9 +12152,9 @@
 # Vyborgskaya-Tamozhnya-LAN
 # St.Petersburg
 # JSC PeterStar
-84.204.216.248/29
-84.204.192.24/29
 84.204.48.116/30
+84.204.192.24/29
+84.204.216.248/29
 
 # Networks announced by AS8595
 # AS-Name: WESTCALL-RKN
@@ -12279,7 +12181,7 @@
 
 # Networks announced by AS25513
 # AS-Name: X5RETAIL-NET
-# CJSC X5 Retail Group N.V.
+# CJSC «X5 Retail Group N.V.»
 # Russia, Moscow, Sr.Kalitnikovskaya street, 4/28
 94.139.117.64/26
 
@@ -12422,8 +12324,8 @@
 # FSBI "Zapadno-Sibirskoe UGMS"
 # Sovetskaya, 30
 # 630099, Russia, Novosibirsk
-81.1.228.208/28
 81.1.205.64/28
+81.1.228.208/28
 
 # Networks announced by AS15672
 # AS-Name: Zarubezhatomenergostroy-NET
@@ -12570,9 +12472,9 @@
 # Networks announced by AS8615
 # AS-Name: fss-net
 # "Fond socialnogo strahovaniya RF"
+212.13.103.0/27
 213.85.181.244/30
 213.85.181.240/30
-212.13.103.0/27
 
 # Networks announced by AS8615
 # AS-Name: givc-net
@@ -12639,8 +12541,8 @@
 # Networks announced by AS8615
 # AS-Name: medgen-net
 # FGBU "MGNC RAMN"
-213.85.20.240/29
 212.13.97.88/30
+213.85.20.240/29
 
 # Networks announced by AS21479
 # AS-Name: min_trud-ROSTOV-NET
@@ -12691,8 +12593,8 @@
 # Networks announced by AS12389
 # AS-Name: mintrud-net
 # The ministry of labour, employment and migration policy of the Samara region
-212.32.193.240/29
 212.32.193.248/29
+212.32.193.240/29
 
 # Networks announced by AS8615
 # AS-Name: mprmo-net
@@ -12706,10 +12608,10 @@
 
 # Networks announced by AS8615
 # AS-Name: npfsberbank
-# AO NPF Sberbanka
 # AO "NPF Sberbanka"
-213.85.69.80/28
+# AO «NPF Sberbanka»
 213.85.18.208/28
+213.85.69.80/28
 
 # Networks announced by AS12389
 # AS-Name: oblsud-samara
@@ -12848,7 +12750,7 @@
 
 # Networks announced by AS8359
 # AS-Name: trudsud
-# Uchrezhdenie Trudovoj arbitrazhnyj sud dlya razresheniya kollektivnyh trudovyh sporov
+# Uchrezhdenie «Trudovoj arbitrazhnyj sud dlya razresheniya kollektivnyh trudovyh sporov»
 89.175.4.144/28
 
 # Networks announced by AS8615
@@ -12858,12 +12760,12 @@
 
 # Networks announced by AS39442
 # AS-Name: uvd
+# arakskaya33
 # degtyareva33
 # krasnoarmeyskiy
-# arakskaya33
+188.247.36.128/30
 188.247.36.140/30
 188.247.36.124/30
-188.247.36.128/30
 188.247.36.136/30
 
 # Networks announced by AS39442
@@ -12895,9 +12797,9 @@
 # Networks announced by AS8615
 # AS-Name: vnukcustoms-net
 # "Vnukovskaya Tamozhnya"
-213.85.53.128/29
-213.85.53.136/29
 213.85.53.144/28
+213.85.53.136/29
+213.85.53.128/29
 
 # Networks announced by AS2848
 # AS-Name: voen
@@ -12909,4 +12811,3 @@
 # AS-Name: zavod41-net
 # FGUP "41 Centralnyi zavod zheleznodorozhnoi techniki"
 213.85.142.176/28
-
